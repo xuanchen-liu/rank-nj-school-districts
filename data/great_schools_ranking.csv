@@ -1,0 +1,1452 @@
+,ranking,school,district,rating,rating_scores,rating_progress,rating_equity,grade,student,ratio
+0,0,Walter M. Schirra Elementary School,Old Bridge Township School District,10,10,9,10,K-5 & Ungraded,278,10
+1,1,Clark Mills Elementary School,Manalapan-Englishtown Regional School District,10,9,10,10,K-5,508,9
+2,2,Frank Defino Central Elementary School,Marlboro Township Board Of Education School District,10,10,10,-1,K-5 & Ungraded,515,11
+3,3,Mendham Twp Middle School,Mendham Township Board Of Education School District,10,10,10,-1,8-May,313,9
+4,4,Edgar Middle School,Metuchen Public School District,10,9,10,10,5-8 & Ungraded,714,12
+5,5,Wyoming Elementary School,Millburn Township School District,10,10,10,-1,K-4 & Ungraded,327,14
+6,6,Hilldale Elementary School,Montville Township School District,10,10,10,-1,K-5,320,9
+7,7,Cedar Hill School,Bernards Township Public School District,10,9,10,10,K-5 & Ungraded,547,10
+8,8,Spring Garden Elementary School,Nutley Public School District,10,9,10,10,PK-6 & Ungraded,412,11
+9,9,Oradell Elementary School,Oradell School District,10,10,10,8,PK-6 & Ungraded,764,11
+10,10,School 28,Paterson Public School District,10,10,9,10,PK-8 & Ungraded,505,11
+11,11,Orchard Elementary School,Ridgewood Public School District,10,10,10,10,K-5,298,15
+12,12,J. Spencer Smith Elementary School,Tenafly Public School District,10,9,10,-1,K-5 & Ungraded,374,12
+13,13,Sara M. Gilmore Academy,Union City School District,10,10,9,10,8-Jan,399,13
+14,14,Edith A. Bogert Elementary School,Upper Saddle River School District,10,10,9,10,3-5 & Ungraded,377,12
+15,15,Catherine E. Doyle Elementary School,Wood-Ridge Board Of Education School District,10,9,-1,10,PK-3 & Ungraded,396,10
+16,16,North End Elementary School,Cedar Grove Township School District,10,9,10,-1,PK-4 & Ungraded,249,10
+17,17,Brookside Elementary School,Allendale Board Of Education School District,10,10,9,10,8-Apr,512,11
+18,18,Wemrock Brook School,Manalapan-Englishtown Regional School District,10,9,10,10,5-Jan,636,13
+19,19,Alexander Hamilton School,Glen Rock Public School District,10,10,10,-1,K-5 & Ungraded,272,15
+20,20,Hillside Elementary School,Closter Public School District,10,10,10,10,PK-4 & Ungraded,682,11
+21,21,Zane North Elementary School,Collingswood Public School District,10,10,10,-1,PK-5 & Ungraded,160,14
+22,22,Edward H. Bryan Elementary School,Cresskill Public School District,10,9,10,10,K-5 & Ungraded,477,12
+23,23,Merritt Memorial Elementary School,Cresskill Public School District,10,9,10,-1,K-5 & Ungraded,336,12
+24,24,Riverview Elementary School,Denville Township Board Of Education School District,10,10,10,-1,K-5,382,9
+25,0,Upper School,Englewood Cliffs Public School District,10,10,10,8,8-Mar,328,8
+26,1,Henry B. Milnes Elementary School,Fair Lawn Public School District,10,10,10,10,K-5 & Ungraded,497,11
+27,2,Woodfern Elementary School,Hillsborough Township Public School District,10,9,10,-1,K-4 & Ungraded,363,9
+28,3,Island Heights Elementary School,Island Heights Board Of Education School District,10,9,10,-1,K-6,124,9
+29,4,Markham Place Elementary School,Little Silver Boro School District,10,10,10,-1,8-May,380,9
+30,5,Point Road School,Little Silver Boro School District,10,9,10,-1,PK-4,454,10
+31,6,Columbus Elementary School,Lodi Public School District,9,7,10,9,K-5 & Ungraded,221,14
+32,7,Torey J. Sabatini Elementary School,Madison School District,9,9,9,-1,K-5,316,11
+33,8,Lafayette Mills Elementary School,Manalapan-Englishtown Regional School District,9,9,10,7,5-Jan,515,13
+34,9,Milford Brook Elementary School,Manalapan-Englishtown Regional School District,9,9,9,10,K-5 & Ungraded,540,12
+35,10,Pine Brook Elementary School,Manalapan-Englishtown Regional School District,9,10,9,10,6,565,15
+36,11,Jefferson Elementary School,Bergenfield Borough School District,9,8,10,8,K-5,263,15
+37,12,Robertsville Elementary School,Marlboro Township Board Of Education School District,9,9,8,10,1-5 & Ungraded,486,11
+38,13,Lincoln Elementary School,Bergenfield Borough School District,9,9,8,9,PK-5 & Ungraded,412,14
+39,14,Maywood Avenue Elementary School,Maywood School District,9,9,10,7,"PK, 4-8 & Ungraded",560,11
+40,15,Memorial Elementary School,Maywood School District,9,10,-1,8,PK-3 & Ungraded,430,12
+41,16,Taunton Forge Elementary School,Medford Township Public School District,9,8,9,-1,K-5,289,12
+42,17,Mountain View Middle School,Mendham Borough School District,9,10,9,-1,8-May,249,8
+43,18,Mendham Twp Elementary School,Mendham Township Board Of Education School District,9,10,9,-1,PK-4 & Ungraded,377,10
+44,19,Middletown Village Elementary School,Middletown Township Public School District,9,9,8,10,K-5 & Ungraded,384,15
+45,20,South Mountain Elementary School,Millburn Township School District,9,10,8,-1,PK-4 & Ungraded,296,12
+46,21,Deerfield Elementary School,Millburn Township School District,9,10,9,-1,K-4 & Ungraded,413,14
+47,22,Glenwood Elementary School,Millburn Township School District,9,10,8,-1,K-4,362,13
+48,23,Cedar Hill Elementary School,Montville Township School District,9,8,9,-1,PK-5 & Ungraded,327,7
+49,24,Valley View Elementary School,Montville Township School District,9,9,9,-1,PK-5 & Ungraded,367,8
+50,0,Woodmont Elementary School,Montville Township School District,9,10,9,9,K-5,295,8
+51,1,Wildwood Elementary School,Mountain Lakes Board Of Education School District,9,10,8,-1,K-5 & Ungraded,443,11
+52,2,Deerfield Elementary School,Mountainside School District,9,9,9,10,8-Mar,245,10
+53,3,Allen W. Roberts Elementary School,New Providence Board Of Education School District,9,10,9,6,PK-6 & Ungraded,702,13
+54,4,Gould  Mountain School,North Caldwell Board Of Education School District,9,10,9,-1,PK-6,276,11
+55,5,Radcliffe Elementary School,Nutley Public School District,9,8,9,10,PK-6 & Ungraded,355,12
+56,6,Wolf Hill Elementary School,Oceanport School District,9,9,9,-1,PK-4 & Ungraded,342,10
+57,7,Charles Dewolf Middle School,Old Tappan Public School District,9,9,9,-1,8-May,294,9
+58,8,East Brook Elementary School,Park Ridge Public School District,9,9,9,10,K-6 & Ungraded,311,11
+59,9,Littleton Elementary School,Parsippany-Troy Hills Township School District,9,9,9,7,PK-5 & Ungraded,405,12
+60,10,Northvail Elementary School,Parsippany-Troy Hills Township School District,9,10,10,4,K-5,371,14
+61,11,Lillian M. Steen Elementary School,Bogota Public School District,9,8,10,7,K-6 & Ungraded,293,11
+62,12,Hillview Elementary School,Pequannock Township School District,9,10,9,7,K-5 & Ungraded,290,13
+63,13,Littlebrook School,Princeton Public School District,9,9,9,7,PK-5 & Ungraded,370,11
+64,14,Center Grove School,Randolph Township School District,9,9,10,7,PK-5 & Ungraded,519,13
+65,15,Cherry Hill Elementary School,River Edge School District,9,10,9,6,PK-6 & Ungraded,740,12
+66,16,Roosevelt Elementary School,River Edge School District,9,9,10,9,K-6 & Ungraded,498,14
+67,17,Catherine A. Dwyer Elementary School,Rockaway Township School District,9,8,10,6,K-5,292,9
+68,18,Lester C. Noecker Elementary School,Roseland School District,9,9,10,9,PK-6 & Ungraded,469,12
+69,19,Jefferson Elementary School,Roxbury Township School District,9,8,10,-1,PK-4 & Ungraded,369,12
+70,20,Forrestdale Middle School,Rumson Borough School District,9,10,9,-1,4-8 & Ungraded,608,10
+71,21,Sandyston-Walpack Cons. Elementary School,Sandyston-Walpack Consolidated School District,9,8,9,-1,K-6,133,8
+72,22,William J. McGinn Elementary School,Scotch Plains-Fanwood School District,9,9,10,9,K-4 & Ungraded,512,12
+73,23,Sea Girt Elementary School,Sea Girt Borough Public School District,9,10,9,-1,PK-8,125,7
+74,24,Monmouth Junction Elementary School,South Brunswick School District,9,10,8,-1,PK-5,347,10
+75,0,Valley Road School,Stanhope School District,9,7,9,10,PK-8 & Ungraded,310,10
+76,1,Lincoln  Hubbard Elementary School,Summit Public School District,9,10,9,8,5-Jan,314,11
+77,2,Malcolm S. MacKay Elementary School,Tenafly Public School District,9,9,9,8,K-5 & Ungraded,393,13
+78,3,Ralph S. Maugham Elementary School,Tenafly Public School District,9,10,9,-1,K-5 & Ungraded,412,13
+79,4,Walter Stillman Elementary School,Tenafly Public School District,9,9,9,-1,PK-5 & Ungraded,372,12
+80,5,Bradley Gardens Elementary School,Bridgewater-Raritan Regional School District,9,9,10,8,PK-4 & Ungraded,289,10
+81,6,Jefferson Elementary School,Union City School District,9,6,10,10,PK-4 & Ungraded,329,13
+82,7,Brookdale Avenue Elementary School,Verona  Public School District,9,8,9,-1,K-4 & Ungraded,127,14
+83,8,Old Farmers Road Elementary School,Washington Township Public School District,9,8,10,-1,K-5,307,10
+84,9,Valley View Middle School,Watchung Borough Public School District,9,9,10,8,8-May,295,10
+85,10,Albert P. Terhune Elementary School,Wayne Township Public School District,9,10,9,-1,PK-5 & Ungraded,399,12
+86,11,Maple Road Elementary School,West Milford Township Public School District,9,7,10,8,PK-6 & Ungraded,299,11
+87,12,Washington Elementary School,Westfield Public School District,9,10,8,-1,5-Jan,309,13
+88,13,Berkeley Avenue Elementary School,Westwood Regional School District,9,9,9,8,K-5,304,10
+89,14,Jessie F  George Elementary School,Westwood Regional School District,9,9,9,10,K-5 & Ungraded,268,10
+90,15,Brookside Elementary School,Westwood Regional School District,9,9,10,9,K-5 & Ungraded,386,11
+91,16,South End Elementary School,Cedar Grove Township School District,9,8,10,-1,PK-4 & Ungraded,312,14
+92,17,Joseph D. Sharp Elementary School,Cherry Hill Township School District,9,10,9,-1,K-5 & Ungraded,362,15
+93,18,Mount Prospect Elementary School,Bernards Township Public School District,9,10,9,6,PK-5 & Ungraded,591,7
+94,19,William H. Ross III Intermediate School,Margate City School District,9,9,9,-1,PK-4 & Ungraded,169,8
+95,20,Stony Brook Elementary School,Hopewell Valley Regional School District,9,10,9,-1,K-5 & Ungraded,388,9
+96,21,Lenape Meadows School,Mahwah Township Public School District,9,8,-1,9,PK-3 & Ungraded,392,12
+97,22,Alpine Elementary School,Alpine Elementary School District,9,10,8,-1,K-8,135,6
+98,23,James A. Garfield Elementary School,Collingswood Public School District,9,9,9,-1,K-5,134,13
+99,24,Conover Road School,Colts Neck Township School District,9,8,9,-1,3-5 & Ungraded,276,9
+100,0,Long Pond School,Andover Regional School District,9,8,10,9,5-8 & Ungraded,220,8
+101,1,Brookside Place Elementary School,Cranford Public School District,9,10,8,-1,K-5 & Ungraded,365,12
+102,2,Demarest Middle School,Demarest School District,9,10,8,-1,8-May,309,9
+103,3,Byram Lakes Elementary School,Byram Township Board Of Education School District,9,7,10,-1,PK-4 & Ungraded,446,9
+104,4,Elms Elementary School,Jackson Township School District,9,8,10,7,PK-5 & Ungraded,705,10
+105,5,Milltown School,Bridgewater-Raritan Regional School District,9,10,9,-1,PK-4 & Ungraded,425,10
+106,6,Montgomery Lower Mid School,Montgomery Township School District,9,10,9,7,5-6 & Ungraded,715,10
+107,7,James Madison Intermediate Elementary School,Edison Township Public School District,9,9,9,-1,3-5 & Ungraded,679,16
+108,8,Woodbrook Elementary School,Edison Township Public School District,9,10,9,-1,K-5 & Ungraded,978,18
+109,9,Terence C. Reilly School #7,Elizabeth Public School District,9,10,8,10,"PK, 2-8 & Ungraded",1087,14
+110,10,Essex Fells Elementary School,Essex Fells School District,9,10,9,-1,PK-6,250,7
+111,11,Atlantic Highlands Elementary School,Atlantic Highlands School District,9,8,9,-1,PK-6 & Ungraded,311,11
+112,12,Knollwood Elementary School,Fair Haven School District,9,10,8,-1,8-Apr,564,9
+113,13,Lyncrest Elementary School,Fair Lawn Public School District,9,10,8,9,K-5 & Ungraded,263,12
+114,14,Radburn Elementary School,Fair Lawn Public School District,9,10,9,7,K-5,457,12
+115,15,Warren Point Elementary School,Fair Lawn Public School District,9,8,10,7,K-5 & Ungraded,469,13
+116,16,Copper Hill School,Flemington-Raritan Regional School District,9,8,9,-1,PK-4 & Ungraded,413,7
+117,17,School No. 1,Fort Lee Public School District,9,10,10,6,K-6 & Ungraded,761,13
+118,18,Woodside Avenue Elementary School,Franklin Lakes Public School District,9,8,9,-1,K-5 & Ungraded,254,9
+119,19,Edith Ort Thomas Elementary School,Frenchtown School District,9,8,9,-1,PK-8,127,7
+120,20,Ridgewood Avenue School,Glen Ridge Public School District,9,9,8,10,6-Mar,575,13
+121,21,Central Elementary School,Glen Rock Public School District,9,10,9,-1,K-5,340,14
+122,22,Willow Grove Elementary School,Hackettstown Public School District,9,8,9,9,PK-4 & Ungraded,248,8
+123,23,Atlantic Avenue Elementary School,Haddon Heights School District,9,9,9,-1,PK-6 & Ungraded,158,18
+124,24,Applegarth Elementary School,Monroe Township Board Of Education School District,9,10,8,-1,5-Apr,439,15
+125,0,Harding Township Elementary School,Harding Township School District,9,10,8,-1,PK-8,277,7
+126,1,Haworth Elementary School,Haworth Public School District,9,9,8,10,K-8,394,8
+127,2,Woods Road Elementary School,Hillsborough Township Public School District,9,8,9,-1,PK-4 & Ungraded,475,10
+128,3,Ann Blanche Smith Elementary School,Hillsdale Board Of Education School District,9,8,10,-1,K-4,291,9
+129,4,George G. White Middle School,Hillsdale Board Of Education School District,9,9,10,7,5-8 & Ungraded,531,8
+130,5,Hope Township Elementary School,Hope Township School District,9,7,10,10,PK-8 & Ungraded,132,8
+131,6,Cornelia F. Bradford No. 16 Elementary School,Jersey City Public School District,9,10,10,7,PK-5,694,12
+132,7,Stonybrook Elementary School,Kinnelon Board Of Education School District,9,9,9,10,"K, 3-5",433,10
+133,8,Lafayette Township Elementary School,Lafayette Township School District,9,7,9,10,PK-8 & Ungraded,203,11
+134,9,Lavallette Elementary School,Lavallette Borough Board Of Education School District,9,8,10,-1,K-8,143,7
+135,10,Lincoln Park Middle School,Lincoln Park School District,9,9,9,9,"PK, 5-8 & Ungraded",421,11
+136,11,Little Falls Township Public School # 1,Little Falls Township Public School District,9,9,8,9,5-8 & Ungraded,376,9
+137,12,Mt Pleasant Middle School,Livingston Public School District,9,10,8,-1,6,484,11
+138,13,Hillside Elementary School,Livingston Public School District,8,10,8,4,K-5 & Ungraded,403,12
+139,14,Mount Pleasant Elementary School,Livingston Public School District,8,10,7,-1,K-5,436,14
+140,15,Burnet Hill School,Livingston Public School District,8,9,7,-1,PK-5 & Ungraded,459,12
+141,16,Penn Beach Elementary School,Pennsville Public School District,8,6,8,8,4-5 & Ungraded,268,11
+142,17,Jefferson Elementary School,Lyndhurst School District,8,7,9,7,4-8 & Ungraded,272,12
+143,18,Roosevelt Elementary School,Lyndhurst School District,8,8,9,8,8-Apr,418,15
+144,19,Central Avenue Elementary School,Madison School District,8,8,9,5,PK-5 & Ungraded,499,11
+145,20,Kings Road School,Madison School District,8,8,8,-1,K-5,310,11
+146,21,Cheesequake Elementary School,Old Bridge Township School District,8,10,8,7,K-5,283,12
+147,22,James Mc Divitt Elementary School,Old Bridge Township School District,8,7,9,8,K-5 & Ungraded,421,10
+148,23,Madison Park Elementary School,Old Bridge Township School District,8,6,10,8,K-5 & Ungraded,272,8
+149,24,M. Scott Carpenter Elementary School,Old Bridge Township School District,8,7,9,-1,K-5 & Ungraded,246,11
+150,0,Taylor Mills Elementary School,Manalapan-Englishtown Regional School District,8,8,10,6,K-6 & Ungraded,598,10
+151,1,Manasquan Elementary School,Manasquan School District,8,8,8,6,PK-8 & Ungraded,545,9
+152,2,Eugene A Tighe Mid School,Margate City School District,8,10,9,5,8-May,181,6
+153,3,Frank J Dugan School,Marlboro Township Board Of Education School District,8,9,6,10,K-5 & Ungraded,616,13
+154,4,Neeta School,Medford Lakes School District,8,7,9,-1,3-8 & Ungraded,363,12
+155,5,Hilltop School,Mendham Borough School District,8,9,7,-1,PK-4,263,8
+156,6,Fairview Elementary School,Middletown Township Public School District,8,8,10,6,K-5,295,13
+157,7,Thomas P. Hughes Elementary School,Berkeley Heights Public School District,8,10,7,5,5-Feb,273,11
+158,8,River Plaza Elementary School,Middletown Township Public School District,8,8,8,-1,K-5 & Ungraded,286,12
+159,9,Highland Avenue Elementary School,Midland Park Public School District,8,8,8,9,3-6 & Ungraded,267,6
+160,10,Mountain Park Elementary School,Berkeley Heights Public School District,8,10,9,4,2-5 & Ungraded,230,11
+161,11,William Woodruff Elementary School,Berkeley Heights Public School District,8,9,6,9,2-5 & Ungraded,201,9
+162,12,Monmouth Beach Elementary School,Monmouth Beach Elementary School District,8,10,7,-1,PK-8,234,8
+163,13,Fieldstone Middle School,Montvale Board Of Education School District,8,9,8,7,5-8 & Ungraded,451,10
+164,14,Memorial Elementary School,Montvale Board Of Education School District,8,9,8,-1,PK-4,519,10
+165,15,William H. Mason Junior Elementary School,Montville Township School District,8,9,8,-1,PK-5 & Ungraded,229,8
+166,16,MR. Robert L. Craig Elementary School,Moonachie School District,8,7,9,7,PK-8 & Ungraded,310,11
+167,17,Oak Street Elementary School,Bernards Township Public School District,8,9,8,6,K-5,464,10
+168,18,Liberty Corner Elementary School,Bernards Township Public School District,8,8,8,6,K-5 & Ungraded,526,11
+169,19,Berkley Street Elementary School,New Milford School District,8,9,9,6,K-5,436,13
+170,20,Bertram F. Gibbs Elementary School,New Milford School District,8,8,7,8,K-5 & Ungraded,484,13
+171,21,Salt Brook Elementary School,New Providence Board Of Education School District,8,10,8,6,K-6 & Ungraded,650,14
+172,22,Roosevelt Elementary School,North Arlington School District,8,8,9,7,K-5 & Ungraded,226,14
+173,23,Memorial Elementary School,North Haledon School District,8,6,10,6,PK-4 & Ungraded,344,11
+174,24,Washington Elementary School,Nutley Public School District,8,7,9,9,K-6,553,13
+175,0,Yantacaw Elementary School,Nutley Public School District,8,7,9,9,K-6,495,12
+176,1,Wanamassa Elementary School,Township Of Ocean School District,8,9,9,4,PK-4 & Ungraded,304,9
+177,2,Oak View Elementary School,Bloomfield Board Of Education School District,8,9,9,5,PK-6 & Ungraded,364,10
+178,3,T. Baldwin Demarest Elementary School,Old Tappan Public School District,8,9,8,-1,K-4 & Ungraded,346,10
+179,4,Forest Street School,Orange Board Of Education School District,8,5,10,7,PK-7,381,11
+180,5,Ridge Ranch Elementary School,Paramus Public School District,8,7,7,10,K-4 & Ungraded,346,13
+181,6,Mount Tabor School,Parsippany-Troy Hills Township School District,8,9,8,6,K-5 & Ungraded,449,15
+182,7,Eastlake Elementary School,Parsippany-Troy Hills Township School District,8,8,8,6,PK-5 & Ungraded,350,12
+183,8,Lake Parsippany Elementary School,Parsippany-Troy Hills Township School District,8,8,7,8,K-5 & Ungraded,283,12
+184,9,E. Roy Bixby Elementary School,Bogota Public School District,8,8,9,6,PK-6 & Ungraded,286,10
+185,10,Fort Dix Elementary School,Pemberton Township School District,8,6,9,8,PK-5 & Ungraded,451,12
+186,11,Ocean Road Elementary School,Point Pleasant Borough Board Of Education School District,8,6,10,6,PK-5 & Ungraded,504,11
+187,12,Riverside Elementary School,Princeton Public School District,8,8,8,6,PK-5 & Ungraded,308,10
+188,13,Ironia Elementary School,Randolph Township School District,8,7,10,6,K-5,451,14
+189,14,Cove Road School,Hazlet Township Public School District,8,7,8,9,6-May,178,10
+190,15,Stony Brook Elementary School,Branchburg Township School District,8,8,9,6,4-5 & Ungraded,316,8
+191,16,Hawes Elementary School,Ridgewood Public School District,8,10,7,-1,K-5 & Ungraded,419,12
+192,17,Somerville Elementary School,Ridgewood Public School District,8,10,6,7,K-5 & Ungraded,420,14
+193,18,Willard Elementary School,Ridgewood Public School District,8,9,8,-1,K-5 & Ungraded,485,14
+194,19,Dennis B  O Brien School,Rockaway Township School District,8,7,10,6,PK-5 & Ungraded,309,9
+195,20,Lincoln/Roosevelt Elementary School,Roxbury Township School District,8,7,9,6,5-6 & Ungraded,480,11
+196,21,Pierrepont Elementary School,Rutherford Public School District,8,8,9,7,4-6 & Ungraded,595,12
+197,22,Harry S. Truman Elementary School,Sayreville Public School District,8,8,-1,8,K-3,481,14
+198,23,Cambridge Elementary School,South Brunswick School District,8,9,8,7,PK-5 & Ungraded,512,13
+199,24,John E. Riley Elementary School,South Plainfield Public School District,8,8,9,6,PK-4,326,12
+200,0,Helen Morgan Elementary School,Sparta Township Public School District,8,9,9,6,4-5 & Ungraded,439,10
+201,1,Thelma L. Sandmeier Elementary School,Springfield Public School District,8,8,9,8,3-5 & Ungraded,261,12
+202,2,Springfield Township Elementary School,Springfield Township School District,8,8,10,2,PK-6 & Ungraded,225,7
+203,3,Stone Harbor Elementary School,Stone Harbor Elementary School District,8,10,7,-1,K-4,99,9
+204,4,Franklin Elementary School,Summit Public School District,8,10,9,3,5-Jan,336,13
+205,5,Whittier Elementary School,Teaneck Public School District,8,5,10,8,K-4 & Ungraded,344,10
+206,6,Hamilton School,Bridgewater-Raritan Regional School District,8,9,8,-1,K-4,516,14
+207,7,Brielle Elementary School,Brielle Boro School District,8,9,8,-1,PK-8,525,11
+208,8,Edward T. Hamilton Elementary School,Voorhees Township Board Of Education School District,8,10,7,-1,K-5 & Ungraded,395,13
+209,9,Old Mill Elementary School,Wall Township Public School District,8,8,9,8,K-5 & Ungraded,382,10
+210,10,West Belmar Elementary School,Wall Township Public School District,8,8,8,9,K-5,181,8
+211,11,Mount Horeb Elementary School,Warren Township School District,8,9,7,-1,PK-5,239,8
+212,12,Angelo Tomaso School,Warren Township School District,8,9,7,-1,K-5 & Ungraded,247,8
+213,13,Sharon Elementary School,Robbinsville Public School District,8,8,9,6,PK-4 & Ungraded,1058,13
+214,14,Flocktown  Kossman Elementary School,Washington Township Public School District,8,7,9,-1,PK-5 & Ungraded,442,16
+215,15,Theunis Dey Elementary School,Wayne Township Public School District,8,7,8,9,PK-5 & Ungraded,437,11
+216,16,West Cape May Elementary School,West Cape May Elementary School District,8,7,9,-1,PK-6,98,10
+217,17,Apshawa Elementary School,West Milford Township Public School District,8,7,8,-1,K-6 & Ungraded,244,10
+218,18,Westbrook Elementary School,West Milford Township Public School District,8,7,8,10,K-6,301,12
+219,19,Mount Pleasant Elementary School,West Orange Public School District,8,9,7,7,K-5 & Ungraded,344,10
+220,20,Redwood Elementary School,West Orange Public School District,8,8,9,7,K-5 & Ungraded,515,10
+221,21,St. Cloud Elementary School,West Orange Public School District,8,9,9,5,K-5,377,11
+222,22,Franklin Elementary School,Westfield Public School District,8,10,6,-1,5-Jan,580,14
+223,23,Tamaques Elementary School,Westfield Public School District,8,8,8,-1,1-5 & Ungraded,401,13
+224,24,Washington Elementary School,Westwood Regional School District,8,8,7,10,K-5 & Ungraded,329,11
+225,0,Weymouth Twp Elementary School,Weymouth Township School District,8,6,10,7,PK-8 & Ungraded,165,6
+226,1,White Township Consolidated Elementary School,White Township School District,8,6,8,9,PK-8 & Ungraded,267,8
+227,2,Dorchester Elementary School,Woodcliff Lake School District,8,9,7,-1,PK-5,464,8
+228,3,Sicomac Elementary School,Wyckoff Township Public School District,8,8,8,-1,PK-5 & Ungraded,275,9
+229,4,Washington Elementary School,Caldwell-West Caldwell Public School District,8,8,7,8,K-5 & Ungraded,352,16
+230,5,Lafayette Elementary School,The School District Of The Chathams,8,10,8,4,4-5 & Ungraded,679,12
+231,6,Bragg Elementary School,Chester School District,8,8,10,3,5-Mar,348,9
+232,7,School #4,Cliffside Park School District,8,7,10,5,K-6 & Ungraded,570,12
+233,8,Fallon Elementary School,Wayne Township Public School District,8,7,8,10,K-5 & Ungraded,381,12
+234,9,Tenakill Middle School,Closter Public School District,8,10,8,6,5-8 & Ungraded,511,11
+235,10,Florence M. Burd Elementary School,Andover Regional School District,8,5,10,-1,PK-4 & Ungraded,225,10
+236,11,William P. Tatem Elementary School,Collingswood Public School District,8,7,10,5,K-5,240,12
+237,12,Livingston Ave School,Cranford Public School District,8,9,9,3,3-5 & Ungraded,251,12
+238,13,Luther Lee Emerson School,Demarest School District,8,9,8,-1,2-4 & Ungraded,214,10
+239,14,Academy Street Elementary School,Dover Public School District,8,5,9,8,PK-6 & Ungraded,547,14
+240,15,Mansfield Twp Elementary School,Mansfield Township School District,8,8,8,7,"PK, 3-6 & Ungraded",347,8
+241,16,Lake Hiawatha School,Parsippany-Troy Hills Township School District,8,8,9,5,PK-5 & Ungraded,408,12
+242,17,Colonial Road School,Franklin Lakes Public School District,8,9,7,-1,PK-5 & Ungraded,245,7
+243,18,Eagleswood Twp Elementary School,Eagleswood Township School District,8,5,9,9,PK-6,128,9
+244,19,Kirbys Mill Elementary School,Medford Township Public School District,8,8,8,8,PK-5 & Ungraded,361,11
+245,20,Tewksbury Elementary School,Tewksbury Township School District,8,9,8,-1,K-5 & Ungraded,321,7
+246,21,Lawrence Brook Elementary School,East Brunswick Public School District,8,9,9,5,PK-5 & Ungraded,454,10
+247,22,Memorial Elementary School,East Brunswick Public School District,8,8,10,5,PK-5 & Ungraded,568,12
+248,23,Warnsdorfer Elementary School,East Brunswick Public School District,8,9,8,-1,PK-5 & Ungraded,450,13
+249,24,Margaret L. Vetter Elementary School,Eatontown Public School District,8,8,10,6,5-6 & Ungraded,199,9
+250,0,Menlo Park Elementary School,Edison Township Public School District,8,9,9,4,K-5 & Ungraded,869,16
+251,1,No 22 William F Halloran,Elizabeth Public School District,8,10,6,10,"PK, 2-8 & Ungraded",1108,15
+252,2,Elsinboro Township School,Elsinboro Township School District,8,6,9,8,K-8,116,9
+253,3,Frances Demasi Elementary School,Evesham Township School District,8,7,8,-1,K-5 & Ungraded,272,11
+254,4,Westmoreland Elementary School,Fair Lawn Public School District,8,10,7,7,PK-5 & Ungraded,422,9
+255,5,School No. 3,Fort Lee Public School District,8,8,9,5,K-6 & Ungraded,596,16
+256,6,Avon Elementary School,Barrington School District,8,6,10,5,PK-4 & Ungraded,311,13
+257,7,Nicholas Oresko School,Bayonne School District,8,9,9,6,PK-8,454,22
+258,8,Clara E. Coleman Elementary School,Glen Rock Public School District,8,10,7,-1,PK-5 & Ungraded,310,17
+259,9,Glendora Elementary School,Gloucester Township Public School District,8,7,10,6,K-5,231,11
+260,10,Green Hills School,Green Township School District,8,8,9,5,K-8,409,11
+261,11,Morris Goodwin Elementary School,Greenwich Township School District,8,7,8,-1,K-8,61,4
+262,12,Seventh Avenue Elementary School,Haddon Heights School District,8,8,8,-1,K-6,128,17
+263,13,Dual Language School,Perth Amboy Public School District,8,6,10,8,6-Feb,452,13
+264,14,Van Sciver Elementary School,Haddon Township School District,8,7,10,7,PK-5 & Ungraded,319,13
+265,15,Elizabeth Haddon Elementary School,Haddonfield Board Of Education School District,8,9,7,-1,PK-5 & Ungraded,367,16
+266,16,J. Fithian Tatem Elementary School,Haddonfield Board Of Education School District,8,8,8,-1,PK-5 & Ungraded,422,17
+267,17,Hainesport Elementary School,Hainesport Township School District,8,7,9,8,PK-8 & Ungraded,572,9
+268,18,Harrington Park Elementary School,Harrington Park School District,8,10,7,-1,PK-8 & Ungraded,601,11
+269,19,Euclid Elementary School,Hasbrouck Heights Board Of Education School District,8,9,9,6,PK-5 & Ungraded,347,12
+270,20,Bedminster Township Elementary School,Bedminster Township Public School District,8,8,9,6,PK-8 & Ungraded,514,9
+271,21,Sunnymead Elementary School,Hillsborough Township Public School District,8,9,9,6,PK-4 & Ungraded,490,12
+272,22,Amsterdam School,Hillsborough Township Public School District,8,9,7,-1,K-4 & Ungraded,511,12
+273,23,Meadowbrook Elementary School,Hillsdale Board Of Education School District,8,9,7,-1,PK-4 & Ungraded,317,8
+274,24,Ho-Ho-Kus Elementary School,Ho-Ho-Kus School District,8,10,6,9,PK-8,590,11
+275,0,Indian Hill School,Holmdel Township School District,8,9,7,-1,4-6 & Ungraded,752,13
+276,1,Howard C Johnson Elementary School,Jackson Township School District,8,6,8,10,K-5 & Ungraded,463,10
+277,2,Belleville PS9,Belleville Public School District,8,8,8,7,K-6,133,26
+278,3,Thomas Jefferson School #9,Garfield Public School District,8,8,7,8,PK-5 & Ungraded,330,
+279,4,Oak Tree Road Elementary School,Woodbridge Township School District,8,9,9,5,K-5,524,
+280,5,Laurel Springs Elementary School,Laurel Springs School District,8,7,9,6,PK-6 & Ungraded,186,13
+281,6,Anna C. Scott Elementary School,Leonia Public School District,8,8,9,5,PK-5 & Ungraded,663,10
+282,7,"Number 5, Elementary School",Linden Public School District,8,5,10,8,PK-5 & Ungraded,315,13
+283,8,Belhaven Middle School,Linwood City School District,8,9,9,7,5-8 & Ungraded,382,12
+284,9,Collins Elementary School,Livingston Public School District,7,9,6,-1,K-5 & Ungraded,463,13
+285,10,Harrison Elementary School,Livingston Public School District,7,10,6,7,K-5 & Ungraded,465,12
+286,11,Logan Elementary School,Logan Township School District,7,8,6,6,2-5 & Ungraded,372,9
+287,12,Lopatcong Elementary School,Lopatcong Township School District,7,6,8,5,PK-4 & Ungraded,378,14
+288,13,Leroy Gordon Cooper Elementary School,Old Bridge Township School District,7,7,7,7,K-5,205,10
+289,14,Southwood Elementary School,Old Bridge Township School District,7,7,8,5,K-5 & Ungraded,405,12
+290,15,Joyce Kilmer Elementary School,Mahwah Township Public School District,7,9,7,5,4-5 & Ungraded,438,10
+291,16,Manchester Twp Elementary School,Manchester Township School District,7,7,7,6,K-5 & Ungraded,549,12
+292,17,Franklin Elementary School,Bergenfield Borough School District,7,8,6,6,K-5 & Ungraded,348,14
+293,18,Asher Holmes Elementary School,Marlboro Township Board Of Education School District,7,8,8,1,5-Jan,504,13
+294,19,Strathmore Elementary School,Matawan-Aberdeen Regional School District,7,9,-1,5,K-3 & Ungraded,397,13
+295,20,Cranberry Pines Elementary School,Medford Township Public School District,7,9,6,-1,K-5 & Ungraded,399,14
+296,21,Campbell Elementary School,Metuchen Public School District,7,7,9,5,4-Jan,695,13
+297,22,Lincroft Elementary School,Middletown Township Public School District,7,8,6,-1,K-5,450,13
+298,23,Nut Swamp Elementary School,Middletown Township Public School District,7,8,9,3,K-5,572,15
+299,24,Hartshorn Elementary School,Millburn Township School District,7,10,5,-1,K-4 & Ungraded,404,13
+300,0,Millstone Twp Elementary School,Millstone Township School District,7,7,7,-1,5-Mar,321,9
+301,1,Joyce Kilmer Elementary School,Milltown Borough Public School District,7,7,8,5,8-Apr,433,10
+302,2,Hillside Elementary School,Montclair Public School District,7,7,10,4,"PK, 3-5 & Ungraded",577,12
+303,3,Berlin Community Elementary School,Berlin Borough School District,7,6,8,6,PK-8 & Ungraded,813,12
+304,4,Borough Elementary School,Morris Plains School District,7,9,8,4,8-Mar,369,9
+305,5,Alexander Hamilton Elementary School,Morris School District,7,6,10,3,3-5 & Ungraded,293,11
+306,6,Thomas Jefferson Elementary School,Morris School District,7,6,10,3,3-5 & Ungraded,314,11
+307,7,Mount Arlington Public Elementary School,Mount Arlington Public School District,7,8,7,6,8-Mar,249,10
+308,8,Hillside Elementary School,Mount Laurel Township School District,7,6,7,-1,PK-4 & Ungraded,348,11
+309,9,New Hanover Township Elementary School,New Hanover Township School District,7,5,8,6,PK-8,173,7
+310,10,First Avenue Elementary School,The Newark Public School District,7,7,7,7,PK-8 & Ungraded,1118,17
+311,11,Oliver Street Elementary School,The Newark Public School District,7,6,7,7,PK-8,1052,15
+312,12,Roberto Clemente Elementary School,The Newark Public School District,7,3,8,7,PK-4 & Ungraded,551,11
+313,13,Clarence B. Lamb Elementary School,North Hanover Township School District,7,5,9,4,1-4 & Ungraded,331,9
+314,14,Brookdale Elementary School,Bloomfield Board Of Education School District,7,8,7,7,K-6,350,12
+315,15,Carteret Elementary School,Bloomfield Board Of Education School District,7,5,9,6,K-6,379,11
+316,16,Northvale Public School,Northvale Public School District,7,9,6,5,K-8 & Ungraded,506,10
+317,17,Heights Elementary School,Oakland Public School District,7,8,7,-1,PK-5 & Ungraded,347,9
+318,18,East Brook Middle School,Paramus Public School District,7,8,6,7,8-May,588,12
+319,19,Memorial Elementary School,Paramus Public School District,7,8,7,6,K-4,311,13
+320,20,Stony Lane Elementary School,Paramus Public School District,7,8,7,-1,K-4 & Ungraded,176,9
+321,21,West Ridge Elementary School,Park Ridge Public School District,7,9,4,10,PK-6 & Ungraded,350,10
+322,22,Rockaway Meadow Elementary School,Parsippany-Troy Hills Township School District,7,7,8,5,K-5 & Ungraded,257,9
+323,23,Charles J. Riley School 9,Paterson Public School District,7,5,9,6,PK-8,771,11
+324,24,Roberto Clemente Elementary School,Paterson Public School District,7,3,9,7,K-5 & Ungraded,341,14
+325,0,Norman S. Weir Elementary School,Paterson Public School District,7,7,7,8,K-8 & Ungraded,281,8
+326,1,School 1,Paterson Public School District,7,7,8,7,PK-5 & Ungraded,267,9
+327,2,Martin Luther King Elementary School,Piscataway Township School District,7,7,8,4,4-5 & Ungraded,472,13
+328,3,Elwood Kindle Elementary School,Pitman Boro Public School District,7,8,6,6,K-5,158,10
+329,4,Nellie F Bennett Elementary School,Point Pleasant Borough Board Of Education School District,7,7,7,7,PK-5 & Ungraded,767,13
+330,5,Lincoln Elementary School,Pompton Lakes Boro School District,7,7,8,7,PK-5 & Ungraded,307,12
+331,6,John Y. Dater Elementary School,Ramsey Public School District,7,9,8,4,4-5 & Ungraded,384,11
+332,7,Beers St School,Hazlet Township Public School District,7,8,8,6,5-6 & Ungraded,225,9
+333,8,Middle Road School,Hazlet Township Public School District,7,6,9,6,1-4 & Ungraded,277,10
+334,9,Grant Elementary School,Ridgefield Park Township School District,7,6,8,7,K-6,230,10
+335,10,Travell Elementary School,Ridgewood Public School District,7,9,7,6,K-5 & Ungraded,392,13
+336,11,Midland  No 1,Rochelle Park School District,7,6,8,7,PK-8 & Ungraded,506,12
+337,12,Birchwood Elementary School,Rockaway Township School District,7,7,8,5,K-5 & Ungraded,281,9
+338,13,Katherine D. Malone Elementary School,Rockaway Township School District,7,7,7,-1,K-5 & Ungraded,252,8
+339,14,Sherman Elementary School,Roselle Park Board Of Education School District,7,7,8,7,PK-5 & Ungraded,355,12
+340,15,Park Middle School,Scotch Plains-Fanwood School District,7,8,6,7,5-8 & Ungraded,909,11
+341,16,Terrill Middle School,Scotch Plains-Fanwood School District,7,9,5,7,5-8 & Ungraded,811,11
+342,17,School #1 Elementary School,Scotch Plains-Fanwood School District,7,7,9,3,PK-4 & Ungraded,395,12
+343,18,Shrewsbury Elementary School,Shrewsbury Borough School District,7,9,6,-1,PK-8 & Ungraded,479,9
+344,19,Constable Elementary School,South Brunswick School District,7,8,8,4,K-5 & Ungraded,464,10
+345,20,Memorial Elementary School,South Hackensack School District,7,7,7,6,PK-8,281,13
+346,21,John F. Kennedy Elementary School,South Plainfield Public School District,7,9,7,6,PK-4 & Ungraded,298,11
+347,22,Grant Elementary School,South Plainfield Public School District,7,7,9,5,5-6 & Ungraded,522,10
+348,23,H W Mountz Elementary School,Spring Lake Borough School District,7,9,5,-1,PK-8,176,5
+349,24,Spring Lake Heights Elementary School,Spring Lake Heights School District,7,8,6,10,K-8,327,10
+350,0,James Caldwell Elementary School,Springfield Public School District,7,8,7,6,5-Mar,255,14
+351,1,Stillwater Township Elementary School,Stillwater Township School District,7,8,7,5,PK-6 & Ungraded,262,8
+352,2,Brayton Elementary School,Summit Public School District,7,9,8,4,5-Jan,340,11
+353,3,Jefferson Elementary School,Summit Public School District,7,9,7,5,1-5 & Ungraded,227,8
+354,4,Crim Elementary School,Bridgewater-Raritan Regional School District,7,9,7,6,PK-4 & Ungraded,409,10
+355,5,Van Holten Elementary School,Bridgewater-Raritan Regional School District,7,8,6,-1,K-4 & Ungraded,375,10
+356,6,Washington Elementary School,Union City School District,7,4,8,7,PK-6 & Ungraded,796,13
+357,7,Livingston Elementary School,Twp Of Union Board Of Education School District,7,8,8,6,PK-4 & Ungraded,424,13
+358,8,Washington Elementary School,Twp Of Union Board Of Education School District,7,8,7,6,PK-4 & Ungraded,575,13
+359,9,Upper Pittsgrove Elementary School,Upper Pittsgrove Twp School District,7,8,6,6,PK-8 & Ungraded,318,9
+360,10,Upper Township Elementary School,Upper Township School District,7,9,8,4,3-5 & Ungraded,481,11
+361,11,Ventnor Middle School,Ventnor City School District,7,7,9,5,5-8 & Ungraded,286,8
+362,12,Signal Hill School,Voorhees Township Board Of Education School District,7,8,7,5,PK-5 & Ungraded,524,12
+363,13,Crescent Elementary School,Waldwick School District,7,8,6,10,K-5,349,12
+364,14,Wanaque Elementary School,Wanaque Public School District,7,8,6,6,PK-8 & Ungraded,497,11
+365,15,Central Elementary School,Warren Township School District,7,9,8,2,K-5 & Ungraded,308,8
+366,16,Pond Road Middle School,Robbinsville Public School District,7,8,6,-1,5-8 & Ungraded,1031,13
+367,17,Bayberry Elementary School,Watchung Borough Public School District,7,9,6,-1,PK-4 & Ungraded,341,11
+368,18,Betty Mcelmon Elementary School,West Long Branch Board Of Education School District,7,8,7,-1,PK-4,310,9
+369,19,Paradise Knoll Elementary School,West Milford Township Public School District,7,6,8,6,K-6,273,11
+370,20,Public School Number Two,West New York Board Of Education School District,7,5,9,7,K-6 & Ungraded,736,16
+371,21,Hazel Avenue Elementary School,West Orange Public School District,7,5,10,5,K-5,335,10
+372,22,Jefferson Elementary School,Westfield Public School District,7,9,6,-1,5-Jan,442,14
+373,23,McKinley Elementary School,Westfield Public School District,7,8,7,-1,1-5 & Ungraded,341,12
+374,24,Wilson Elementary School,Westfield Public School District,7,8,7,7,1-5 & Ungraded,355,12
+375,0,Twin Hills Elementary School,Willingboro Public School District,7,3,9,6,1-4 & Ungraded,307,14
+376,1,Robert Mascenik School,Woodbridge Township School District,7,6,8,7,K-5 & Ungraded,312,14
+377,2,Claremont Avenue Elementary School,Woodbridge Township School District,7,6,7,7,K-5,305,14
+378,3,Oak Ridge Heights Elementary School,Woodbridge Township School District,7,6,9,5,PK-5 & Ungraded,289,15
+379,4,Aaron Decker Elementary School,Butler Public School District,7,7,7,7,PK-4 & Ungraded,392,9
+380,5,Woodbury Heights Elementary School,Woodbury Heights Public School District,7,6,7,8,PK-6 & Ungraded,229,9
+381,6,Abraham Lincoln Elementary School,Wyckoff Township Public School District,7,8,7,-1,K-5,311,12
+382,7,George Washington Elementary School,Wyckoff Township Public School District,7,8,6,-1,K-5,311,11
+383,8,Wilson Elementary School,Caldwell-West Caldwell Public School District,7,8,6,-1,K-5 & Ungraded,242,14
+384,9,Cape May City Elementary School,Cape May City Board Of Education School District,7,6,8,6,PK-6,151,8
+385,10,A. Russell Knight Elementary School,Cherry Hill Township School District,7,9,7,2,K-5 & Ungraded,359,12
+386,11,Richard Stockton Elementary School,Cherry Hill Township School District,7,10,5,-1,K-5 & Ungraded,339,13
+387,12,Frank K. Hehnly Elementary School,Clark Township Public School District,7,7,8,5,K-5 & Ungraded,537,15
+388,13,Valley Road Elementary School,Clark Township Public School District,7,8,8,5,K-5 & Ungraded,469,13
+389,14,School #2,Clifton Public School District,7,6,8,5,K-5 & Ungraded,425,12
+390,15,Auten Road Intermediate School,Hillsborough Township Public School District,7,9,7,5,5-6 & Ungraded,1165,11
+391,16,Holland Brook School,Readington Township Public School District,7,8,8,6,4-5 & Ungraded,319,9
+392,17,Village Elementary School,Montgomery Township School District,7,8,9,3,3-4 & Ungraded,690,11
+393,18,Midland School,Paramus Public School District,7,9,8,3,K-4 & Ungraded,193,10
+394,19,Robert N  Wilentz Elementary School,Perth Amboy Public School District,7,4,9,6,K-4 & Ungraded,834,11
+395,20,School #11,Clifton Public School District,7,5,9,5,K-5 & Ungraded,431,15
+396,21,Pleasant Valley School,Harrison Township School District,7,8,9,4,4-6 & Ungraded,629,12
+397,22,Springville School,Mount Laurel Township School District,7,7,9,4,PK-4 & Ungraded,512,11
+398,23,Alexander Hamilton Academy,Paterson Public School District,7,7,6,8,K-8 & Ungraded,564,14
+399,24,Robert L  Horbelt Elementary School,Barnegat Township School District,7,6,7,7,K-5 & Ungraded,418,12
+400,0,Little Falls Township Public School # 3,Little Falls Township Public School District,7,10,4,10,3-4 & Ungraded,184,9
+401,1,Clinton Public School,Clinton-Glen Gardner Board Of Education School District,7,7,7,5,PK-8 & Ungraded,430,9
+402,2,Round Valley Middle School,Clinton Township School District,7,7,7,9,3-5 & Ungraded,395,9
+403,3,Cranbury Elementary School,Cranbury Township Board Of Education School District,7,9,7,5,PK-8,476,8
+404,4,Orange Ave School,Cranford Public School District,7,8,7,4,3-8 & Ungraded,738,11
+405,5,Dennis Twp Primary School,Dennis Township School District,7,8,-1,6,PK-3 & Ungraded,300,10
+406,6,Lakeview Elementary School,Denville Township Board Of Education School District,7,9,8,3,PK-5,649,11
+407,7,East Dover Elementary School,Dover Public School District,7,6,8,7,K-6 & Ungraded,468,14
+408,8,North Dover Elementary School,Dover Public School District,7,5,10,6,PK-6 & Ungraded,673,16
+409,9,East Amwell Township Elementary School,East Amwell Township School District,7,9,6,4,PK-8,359,8
+410,10,Central Elementary School,East Brunswick Public School District,7,9,7,4,PK-5 & Ungraded,415,10
+411,11,Frost Elementary School,East Brunswick Public School District,7,9,5,10,PK-5 & Ungraded,472,14
+412,12,Samuel Mickle School,East Greenwich Township Board Of Education School District,7,8,9,4,3-6 & Ungraded,737,12
+413,13,East Newark Public Elementary School,East Newark School District,7,4,9,9,PK-8 & Ungraded,239,12
+414,14,Union Twp Elementary School,Union Township School District,7,8,6,-1,PK-4 & Ungraded,207,11
+415,15,John Marshall Elementary School,Edison Township Public School District,7,8,9,3,K-5 & Ungraded,831,14
+416,16,Lincoln Elementary School,Edison Township Public School District,7,8,8,3,K-5 & Ungraded,905,17
+417,17,Martin Luther King Elementary School,Edison Township Public School District,7,10,9,1,K-5 & Ungraded,687,15
+418,18,Washington Elementary School,Edison Township Public School District,7,6,9,6,K-5 & Ungraded,588,11
+419,19,Gantner Avenue Elementary School,Elmwood Park Board Of Education School District,7,7,6,7,K-5 & Ungraded,317,12
+420,20,Farmingdale Elementary School,Farmingdale Board Of Education School District,7,8,8,5,PK-8 & Ungraded,155,7
+421,21,Barley Sheaf Elementary School,Flemington-Raritan Regional School District,7,8,6,-1,K-4 & Ungraded,350,9
+422,22,Robert Hunter Elementary School,Flemington-Raritan Regional School District,7,7,9,2,K-4 & Ungraded,388,7
+423,23,F A Desmares Elementary School,Flemington-Raritan Regional School District,7,6,10,3,K-4 & Ungraded,447,8
+424,24,Mansion Avenue Elementary School,Audubon Public School District,7,6,8,5,3-6 & Ungraded,382,12
+425,0,Brooklake Elementary School,Florham Park Public School District,7,9,9,1,5-Mar,313,11
+426,1,School No. 2,Fort Lee Public School District,7,8,9,4,PK-6 & Ungraded,493,11
+427,2,School No. 4,Fort Lee Public School District,7,8,9,4,K-6 & Ungraded,614,16
+428,3,Frankford Township Elementary School,Frankford Township School District,7,7,7,5,PK-8,500,10
+429,4,High Mountain Road Elementary School,Franklin Lakes Public School District,7,10,5,-1,PK-5 & Ungraded,218,9
+430,5,Avon Elementary School,Avon-By-The-Sea School District,7,8,7,-1,K-8 & Ungraded,139,7
+431,6,Franklin Township School,Franklin Township School District,7,6,7,-1,PK-6 & Ungraded,201,8
+432,7,Fredon Township Elementary School,Fredon Township School District,7,7,6,10,PK-6,189,8
+433,8,Marshall W. Errickson Elementary School,Freehold Township School District,7,8,9,3,K-5,435,10
+434,9,Washington Irving School  No 4,Garfield Public School District,7,8,7,5,PK-5 & Ungraded,399,11
+435,10,Gibbsboro Elementary School,Gibbsboro Elementary School District,7,4,8,10,PK-8 & Ungraded,275,9
+436,11,Richard E. Byrd Elementary School,Glen Rock Public School District,7,9,6,-1,K-5 & Ungraded,272,13
+437,12,Walter F. Robinson No.3 Elementary School,Bayonne School District,7,7,8,7,PK-8,759,15
+438,13,Greenwich Township Elementary School,Greenwich Township School District,7,6,9,6,K-5 & Ungraded,273,10
+439,14,Anna L. Klein Elementary School,Guttenberg School District,7,5,8,6,PK-8 & Ungraded,941,11
+440,15,New Park School,The Newark Public School District,7,6,9,6,PK-8 & Ungraded,832,17
+441,16,Glenview Avenue Elementary School,Haddon Heights School District,7,8,6,8,K-6,279,9
+442,17,Thomas A. Edison Elementary School,Haddon Township School District,7,6,7,-1,PK-5 & Ungraded,152,18
+443,18,Clyde S. Jennings Elementary School,Haddon Township School District,7,6,7,-1,K-5,113,14
+444,19,Central Elementary School,Haddonfield Board Of Education School District,7,9,6,-1,PK-5 & Ungraded,419,16
+445,20,Hamburg Elementary School,Hamburg School District,7,4,9,5,PK-8,244,5
+446,21,Mountview Road Elementary School,Hanover Township Board Of Education School District,7,8,6,6,K-5,317,11
+447,22,Salem Drive Elementary School,Hanover Township Board Of Education School District,7,8,7,-1,K-5,242,9
+448,23,Lincoln Elementary School,Hasbrouck Heights Board Of Education School District,7,8,6,7,PK-5 & Ungraded,415,13
+449,24,Joseph F Brandt No 2,Hoboken Public School District,7,9,-1,5,K-3,301,9
+450,0,Holland Twp Elementary School,Holland Township School District,7,7,8,3,PK-8 & Ungraded,531,8
+451,1,Ardena Elementary School,Howell Township Public School District,7,8,8,4,5-Mar,335,12
+452,2,Ramtown Elementary School,Howell Township Public School District,7,8,6,8,3-5 & Ungraded,354,12
+453,3,Lucy N Holman Elementary School,Jackson Township School District,7,6,10,5,K-5 & Ungraded,549,11
+454,4,Switlik Elementary School,Jackson Township School District,7,6,9,6,K-5 & Ungraded,751,13
+455,5,Dr. Michael Conti School,Jersey City Public School District,7,7,6,7,PK-8 & Ungraded,679,10
+456,6,Green Brook Middle School,Green Brook Township Public School District,7,8,8,5,5-8 & Ungraded,400,9
+457,7,Washington School,Millburn Township School District,7,10,5,-1,5 & Ungraded,407,13
+458,8,Jotham W. Wakeman No. 6 Elementary School,Jersey City Public School District,7,8,7,6,PK-5 & Ungraded,717,12
+459,9,Kingwood Township Elementary School,Kingwood Township School District,7,7,7,6,PK-8,326,13
+460,10,Knowlton Twp Elementary School,Knowlton Township Board Of Education School District,7,7,7,-1,PK-6 & Ungraded,174,7
+461,11,Cedar Creek Elementary School,Lacey Township School District,7,6,8,5,K-4 & Ungraded,499,11
+462,12,Riker Hill Elementary School,Livingston Public School District,6,9,4,-1,K-5,398,12
+463,13,Hilltop Elementary School,Lodi Public School District,6,8,5,7,PK-5 & Ungraded,347,13
+464,14,Roosevelt,Lodi Public School District,6,8,3,9,PK-5 & Ungraded,173,17
+465,15,Bobbys Run School,Lumberton Township Board Of Education School District,6,6,8,4,4-5 & Ungraded,261,11
+466,16,Lincoln Elementary School,Lyndhurst School District,6,6,8,4,4-8 & Ungraded,251,12
+467,17,William A. Miller Elementary School,Old Bridge Township School District,6,7,5,5,K-5,322,11
+468,18,Raymond E. Voorhees Elementary School,Old Bridge Township School District,6,5,7,5,K-5 & Ungraded,384,10
+469,19,Virgil Grissom Elementary School,Old Bridge Township School District,6,6,5,6,K-5 & Ungraded,229,12
+470,20,Mannington Elementary School,Mannington Township School District,6,6,5,6,PK-8,157,8
+471,21,Centre City Elementary School,Mantua Township Board Of Education School District,6,8,-1,4,1-3 & Ungraded,476,11
+472,22,Marlboro Elementary School,Marlboro Township Board Of Education School District,6,8,6,5,K-5,489,12
+473,23,Haines Memorial 6thgr Center,Medford Township Public School District,6,9,6,4,6 & Ungraded,282,11
+474,24,Milton H. Allen Elementary School,Medford Township Public School District,6,8,5,-1,K-5 & Ungraded,333,11
+475,0,Bayview Elementary School,Middletown Township Public School District,6,6,5,6,K-5 & Ungraded,366,12
+476,1,Navesink Elementary School,Middletown Township Public School District,6,9,4,7,K-5 & Ungraded,233,13
+477,2,Canfield Avenue Elementary School,Mine Hill Township School District,6,7,7,5,PK-6 & Ungraded,344,10
+478,3,Whitehall Elementary School,Monroe Township Public School District,6,5,8,5,K-4 & Ungraded,354,11
+479,4,Radix Elementary School,Monroe Township Public School District,6,7,5,7,PK-4 & Ungraded,713,13
+480,5,Bayville Elementary School,Berkeley Township School District,6,5,8,4,PK-4 & Ungraded,455,10
+481,6,Brookside School,Monroe Township Board Of Education School District,6,8,6,5,3-5 & Ungraded,400,13
+482,7,Bradford School,Montclair Public School District,6,7,7,4,PK-5 & Ungraded,436,13
+483,8,Edgemont Elementary School,Montclair Public School District,6,7,7,4,K-5,280,13
+484,9,Watchung Elementary School,Montclair Public School District,6,8,5,6,K-5 & Ungraded,425,15
+485,10,Mountain View Elementary School,Mount Olive Township School District,6,8,4,7,PK-5 & Ungraded,501,12
+486,11,Lord Stirling Elementary School,New Brunswick Public School District,6,2,9,4,PK-5 & Ungraded,560,13
+487,12,Beverly School,Beverly City School District,6,5,7,4,PK-8 & Ungraded,304,9
+488,13,Mount Vernon Elementary School,The Newark Public School District,6,5,7,5,PK-8 & Ungraded,757,15
+489,14,Blairstown Elementary School,Blairstown Elementary Township School District,6,5,8,5,PK-6,462,10
+490,15,Ridge Street Elementary School,The Newark Public School District,6,4,7,5,PK-8 & Ungraded,745,15
+491,16,Wilson Avenue Elementary School,The Newark Public School District,6,4,9,5,PK-8,1110,17
+492,17,Washington Elementary School,North Arlington School District,6,6,6,5,PK-5 & Ungraded,357,17
+493,18,Livingston Park Elementary School,North Brunswick Township Public School District,6,5,8,3,K-5 & Ungraded,604,9
+494,19,Norwood Elementary School,Norwood Public School District,6,8,7,1,K-8 & Ungraded,605,11
+495,20,Lincoln Elementary School,Nutley Public School District,6,6,5,6,K-6 & Ungraded,497,11
+496,21,Demarest Elementary School,Bloomfield Board Of Education School District,6,7,6,5,K-6,508,12
+497,22,Franklin Elementary School,Bloomfield Board Of Education School District,6,6,6,6,K-6 & Ungraded,366,9
+498,23,Maple Place Elementary School,Oceanport School District,6,9,4,4,5-8 & Ungraded,253,9
+499,24,Watsessing Elementary School,Bloomfield Board Of Education School District,6,3,8,5,K-6 & Ungraded,315,10
+500,0,Lincoln Avenue Elementary School,Orange Board Of Education School District,6,3,9,5,PK-7 & Ungraded,722,13
+501,1,Charles Street Elementary School,Palmyra Public School District,6,4,9,3,PK-6 & Ungraded,457,11
+502,2,Parkway Elementary School,Paramus Public School District,6,8,5,-1,PK-4 & Ungraded,310,10
+503,3,Intervale Elementary School,Parsippany-Troy Hills Township School District,6,7,7,3,K-5 & Ungraded,278,12
+504,4,Troy Hills Elementary School,Parsippany-Troy Hills Township School District,6,8,5,-1,K-5 & Ungraded,260,10
+505,5,School 5,Paterson Public School District,6,3,9,4,K-5 & Ungraded,640,11
+506,6,John Hill Elementary School,Boonton Town School District,6,7,7,4,3-8 & Ungraded,476,10
+507,7,Rockaway Valley Elementary School,Boonton Township Public School District,6,9,4,-1,PK-8,410,10
+508,8,Stephen J. Gerace Elementary School,Pequannock Township School District,6,8,6,5,K-5,313,14
+509,9,John Glenn Elementary School,Pine Hill School District,6,4,7,5,PK-5 & Ungraded,453,12
+510,10,Knollwood Elementary School,Piscataway Township School District,6,8,-1,5,K-3 & Ungraded,505,15
+511,11,Mac Farland Intermediate School,Bordentown Regional School District,6,7,6,4,3-5 & Ungraded,294,15
+512,12,Grandview Elementary School,Piscataway Township School District,6,6,-1,6,PK-3 & Ungraded,789,17
+513,13,Randolphville Elementary School,Piscataway Township School District,6,8,-1,5,K-3,469,15
+514,14,North Main St Elementary School,Pleasantville Public School District,6,2,9,5,PK-5 & Ungraded,372,10
+515,15,New Egypt Elementary School,Plumsted Township Board Of Education School District,6,8,7,3,K-5 & Ungraded,508,9
+516,16,G Harold Antrim Elementary School,Point Pleasant Beach Board Of Education School District,6,7,6,6,PK-8,384,9
+517,17,Lenox School,Pompton Lakes Boro School District,6,6,7,5,K-5,351,11
+518,18,Community Park Elementary School,Princeton Public School District,6,6,8,3,PK-5 & Ungraded,383,12
+519,19,Fernbrook Elementary School,Randolph Township School District,6,6,7,3,K-5,549,9
+520,20,Shongum Elementary School,Randolph Township School District,6,7,7,4,K-5,444,13
+521,21,Slocum  Skewes School,Ridgefield Public School District,6,7,6,5,1-12 & Ungraded,771,10
+522,22,Ridge Elementary School,Ridgewood Public School District,6,10,6,1,K-5 & Ungraded,440,13
+523,23,Eleanor G. Hewitt Elementary School,Ringwood School District,6,7,5,7,4-5 & Ungraded,267,13
+524,24,Thomas Jefferson Middle School,Rockaway Borough Public School District,6,6,7,3,4-8 & Ungraded,319,12
+525,0,Stony Brook Elementary School,Rockaway Township School District,6,6,7,4,K-5 & Ungraded,359,8
+526,1,Ernest J. Finizio - Aldene Elementary School,Roselle Park Board Of Education School District,6,6,5,6,PK-5 & Ungraded,286,10
+527,2,Lincoln Elementary School,Rutherford Public School District,6,7,-1,5,PK-3 & Ungraded,490,14
+528,3,Osbornville Elementary School,Brick Township Public School District,6,6,7,6,K-5 & Ungraded,376,10
+529,4,Arleth Elementary School,Sayreville Public School District,6,7,-1,6,K-3 & Ungraded,501,13
+530,5,Dwight D. Eisenhower Elementary School,Sayreville Public School District,6,7,-1,6,K-3,514,13
+531,6,Howard B. Brunner Elementary School,Scotch Plains-Fanwood School District,6,9,5,6,PK-4 & Ungraded,414,12
+532,7,J. Ackerman Coles Elementary School,Scotch Plains-Fanwood School District,6,8,6,4,PK-4 & Ungraded,552,14
+533,8,Evergreen Elementary School,Scotch Plains-Fanwood School District,6,8,7,3,PK-4 & Ungraded,402,11
+534,9,Huber Street No. 3 Elementary School,Secaucus Board Of Education School District,6,6,8,3,PK-5 & Ungraded,642,14
+535,10,Indian Mills Memorial School,Shamong Township School District,6,7,8,3,8-May,348,10
+536,11,Van Derveer Elementary School,Somerville Borough School District,6,5,8,3,PK-5 & Ungraded,802,11
+537,12,Indian Fields Elementary School,South Brunswick School District,6,8,7,2,PK-5 & Ungraded,668,12
+538,13,Brunswick Acres Elementary School,South Brunswick School District,6,8,7,1,K-5 & Ungraded,534,11
+539,14,Greenbrook Elementary School,South Brunswick School District,6,6,9,3,K-5 & Ungraded,391,9
+540,15,Clinton Elementary School,South Orange-Maplewood School District,6,8,6,3,PK-5 & Ungraded,612,11
+541,16,South Mountain  Annex,South Orange-Maplewood School District,6,7,7,4,PK-5,605,13
+542,17,Roosevelt Elementary School,South Plainfield Public School District,6,7,5,6,PK-4 & Ungraded,407,11
+543,18,Southampton Twp School No 2,Southampton Township School District,6,5,7,4,3-5 & Ungraded,230,9
+544,19,Mckinley Ave Elementary School,Stafford Township School District,6,6,7,3,3-4 & Ungraded,570,11
+545,20,Stafford Intermediate School,Stafford Township School District,6,7,6,5,5-6 & Ungraded,651,10
+546,21,Stow Creek Township Elementary School,Stow Creek Township School District,6,6,5,8,K-8,114,5
+547,22,Samuel S. Yellin Elementary School,Stratford School District,6,7,6,5,4-8 & Ungraded,487,9
+548,23,Washington Elementary School,Summit Public School District,6,10,5,4,1-5 & Ungraded,346,12
+549,24,Walter H. Hill Elementary School,Swedesboro-Woolwich Board Of Education School District,6,6,6,5,6 & Ungraded,275,15
+550,0,Hawthorne Elementary School,Teaneck Public School District,6,5,7,4,K-4 & Ungraded,317,10
+551,1,Lowell Elementary School,Teaneck Public School District,6,7,6,6,K-4 & Ungraded,333,11
+552,2,Swimming River Elementary School,Tinton Falls School District,6,7,7,3,3-5 & Ungraded,458,10
+553,3,Hooper Ave Elementary School,Toms River Regional School District,6,5,7,4,K-5 & Ungraded,720,14
+554,4,Washington Park Elementary School,Totowa Public School District,6,5,7,5,3-8 & Ungraded,626,13
+555,5,Hillside Intermediate School,Bridgewater-Raritan Regional School District,6,8,6,4,5-6 & Ungraded,588,10
+556,6,Thomas A. Edison Elementary School,Union City School District,6,3,8,5,PK-6 & Ungraded,1019,12
+557,7,Roosevelt Elementary School,Union City School District,6,4,9,5,PK-6 & Ungraded,1010,15
+558,8,Union Twp Middle School,Union Township School District,6,8,5,7,5-8 & Ungraded,225,8
+559,9,Connecticut Farms Elementary School,Twp Of Union Board Of Education School District,6,6,6,6,PK-5 & Ungraded,403,10
+560,10,Henry B Whitehorne Middle School,Verona  Public School District,6,7,5,5,5-8 & Ungraded,679,11
+561,11,Johnstone Elementary School,Vineland Public School District,6,10,2,8,5-8 & Ungraded,154,12
+562,12,Osage School,Voorhees Township Board Of Education School District,6,8,7,4,K-5 & Ungraded,682,13
+563,13,Frank W. Gavlak Elementary School,Wallington Boro School District,6,7,6,5,K-6 & Ungraded,426,14
+564,14,Haskell Elementary School,Wanaque Public School District,6,7,5,6,PK-8 & Ungraded,394,9
+565,15,Birches Elementary School,Washington Township School District,6,6,7,4,K-5 & Ungraded,453,8
+566,16,Hurffville Elementary School,Washington Township School District,6,6,7,4,K-5 & Ungraded,492,9
+567,17,Brass Castle Elementary School,Washington Township Public School District,6,8,5,5,"PK-K, 4-6 & Ungraded",258,10
+568,18,Lafayette Elementary School,Wayne Township Public School District,6,7,5,7,PK-5,301,11
+569,19,Packanack Elementary School,Wayne Township Public School District,6,8,4,-1,PK-5 & Ungraded,441,10
+570,20,Number 4 Elementary School,West New York Board Of Education School District,6,4,7,5,K-6 & Ungraded,685,14
+571,21,Number 5 Elementary School,West New York Board Of Education School District,6,3,8,6,K-6 & Ungraded,692,15
+572,22,Pleasantdale Elementary School,West Orange Public School District,6,6,7,4,PK-5 & Ungraded,460,9
+573,23,Washington Elementary School,West Orange Public School District,6,5,7,5,K-5,428,9
+574,24,Memorial Middle School,Woodland Park Public School District,6,5,7,4,5-8 & Ungraded,493,12
+575,0,Village School,West Windsor-Plainsboro Regional School District,6,9,5,5,"PK, 4-5 & Ungraded",741,9
+576,1,Millstone River School,West Windsor-Plainsboro Regional School District,6,8,7,1,3-5 & Ungraded,1023,10
+577,2,Bernardsville Middle School,Somerset Hills Regional School District,6,7,7,2,5-8 & Ungraded,514,11
+578,3,Woodbine Elementary School,Woodbine School District,6,3,8,5,PK-8,232,9
+579,4,Mawbey Street Elementary School,Woodbridge Township School District,6,6,8,4,K-5 & Ungraded,365,19
+580,5,Pennsylvania Ave School,Woodbridge Township School District,6,6,7,5,K-5 & Ungraded,339,15
+581,6,Chatsworth Elementary School,Woodland Township Board Of Education School District,6,3,8,6,PK-8,129,8
+582,7,Richard Butler Elementary School,Butler Public School District,6,8,5,7,5-8 & Ungraded,292,11
+583,8,Byram Twp Intermediate School,Byram Township Board Of Education School District,6,7,5,7,5-8 & Ungraded,365,9
+584,9,Lincoln Elementary School,Caldwell-West Caldwell Public School District,6,8,5,3,K-5 & Ungraded,253,16
+585,10,Cedar Grove Memorial Middle School,Cedar Grove Township School District,6,8,5,3,5-8 & Ungraded,490,11
+586,11,Bret Harte Elementary School,Cherry Hill Township School District,6,8,5,-1,K-5 & Ungraded,390,15
+587,12,Allamuchy Township Elementary School,Allamuchy Township School District,6,5,7,4,3-8 & Ungraded,275,12
+588,13,Eleanor Rush Inter School,Cinnaminson Township Public School District,6,6,7,3,3-5 & Ungraded,588,12
+589,14,Clementon Elementary School,Clementon Elementary School District,6,5,7,4,PK-8 & Ungraded,479,9
+590,15,School #3,Cliffside Park School District,6,7,5,8,1-6 & Ungraded,293,14
+591,16,School #5,Cliffside Park School District,6,7,7,5,"PK, 1-6 & Ungraded",342,13
+592,17,Normandy Park School,Morris School District,6,7,8,3,K-5,302,10
+593,18,Crawford  Rodriguez Elementary School,Jackson Township School District,6,5,7,4,PK-5 & Ungraded,674,11
+594,19,School #14,Clifton Public School District,6,6,5,6,K-5 & Ungraded,378,11
+595,20,School #15,Clifton Public School District,6,5,8,5,PK-5 & Ungraded,321,13
+596,21,Mckenzie School,East Rutherford School District,6,7,6,6,PK-4 & Ungraded,454,12
+597,22,Brooks Crossing Elementary School,South Brunswick School District,6,9,7,2,K-5,589,13
+598,23,Delaware Twp No 1,Delaware Township School District,6,6,6,5,PK-8,373,9
+599,24,Lake Tract Elementary School,Deptford Township Public School District,6,5,7,4,2-6 & Ungraded,502,12
+600,0,Grant Elementary School,Dumont Public School District,6,9,4,5,K-5 & Ungraded,384,11
+601,1,Honiss Elementary School,Dumont Public School District,6,7,6,5,K-8,610,11
+602,2,Charles A. Selzer Elementary School,Dumont Public School District,6,8,5,5,PK-8 & Ungraded,527,11
+603,3,Chairville Elementary School,Medford Township Public School District,6,8,5,-1,K-5 & Ungraded,324,12
+604,4,Rosa Parks Elementary School,Orange Board Of Education School District,6,3,9,5,PK-7 & Ungraded,988,13
+605,5,Bowne-Munro Elementary School,East Brunswick Public School District,6,7,6,5,PK-5 & Ungraded,220,10
+606,6,Chittick Elementary School,East Brunswick Public School District,6,7,6,4,PK-5 & Ungraded,498,9
+607,7,Irwin Elementary School,East Brunswick Public School District,6,8,5,4,PK-5 & Ungraded,473,12
+608,8,Central Elementary School,East Hanover Township School District,6,8,6,3,5-Mar,289,11
+609,9,Benedict A. Cucinella School,Washington Township Public School District,6,6,7,3,PK-5 & Ungraded,499,10
+610,10,No 30 Ronald Reagan,Elizabeth Public School District,6,6,6,5,PK-8 & Ungraded,808,14
+611,11,Hamilton Intermediate School,Harrison Public School District,6,5,8,4,5-Apr,307,10
+612,12,Perry L. Drew Elementary School,East Windsor Regional School District,6,5,7,4,3-5 & Ungraded,582,12
+613,13,Chelsea Heights Elementary School,Atlantic City Public School District,6,5,7,6,PK-8,368,11
+614,14,Eleanor Van Gelder Elementary School,Edgewater School District,6,6,7,3,3-6 & Ungraded,447,12
+615,15,Lindeneau Elementary School,Edison Township Public School District,6,3,8,5,K-5 & Ungraded,442,11
+616,16,"Number 25, Charles J. Hudson Elementary School",Elizabeth Public School District,6,3,8,5,K-8 & Ungraded,609,14
+617,17,No 26 Edreira Academy,Elizabeth Public School District,6,6,5,6,PK-8 & Ungraded,680,11
+618,18,"Number 16, Madison-Monroe Elementary School",Elizabeth Public School District,6,4,7,5,PK-8 & Ungraded,658,14
+619,19,"Number 21, Victor Mravlag Elementary School",Elizabeth Public School District,6,6,7,5,PK-8 & Ungraded,581,13
+620,20,Patrick M. Villano Elementary School,Emerson School District,6,6,5,6,3-6 & Ungraded,316,10
+621,21,Estell Manor Elementary School,Estell Manor City School District,6,5,6,6,K-8,181,9
+622,22,Robert B Jaggard School,Evesham Township School District,6,6,7,5,K-5 & Ungraded,440,10
+623,23,Richard L Rice School,Evesham Township School District,6,6,6,4,PK-5 & Ungraded,555,12
+624,24,John A. Forrest Elementary School,Fair Lawn Public School District,6,5,7,4,K-5 & Ungraded,286,10
+625,0,Adlai E. Stevenson Elementary School,Fairfield Public School District,6,9,-1,4,PK-3 & Ungraded,402,14
+626,1,Churchill,Fairfield Public School District,6,9,3,9,6-Apr,268,8
+627,2,Reading-Fleming Intermediate School,Flemington-Raritan Regional School District,6,8,6,4,5-6 & Ungraded,682,10
+628,3,Avalon Elementary School,Avalon Elementary School District,6,7,5,-1,"PK, 5-8",61,5
+629,4,Franklin Elementary School,Franklin Borough School District,6,6,7,4,PK-8 & Ungraded,438,9
+630,5,Caroline L Reutter School,Franklin Township Board Of Education School District,6,5,8,4,5-6 & Ungraded,406,11
+631,6,Franklin Township Elementary School,Franklin Township School District,6,7,6,6,PK-8 & Ungraded,278,10
+632,7,Hillcrest Elementary School,Franklin Township Public School District,6,3,9,3,PK-5 & Ungraded,436,9
+633,8,Bass River Twp Elementary School,Bass River Township Board Of Education School District,6,4,7,6,PK-6,106,7
+634,9,Reeds Road Elementary School,Galloway Township Public School District,6,4,8,4,K-6 & Ungraded,560,10
+635,10,Woodrow Wilson School  No 5,Garfield Public School District,6,6,7,6,PK-5,293,12
+636,11,Lincoln,Garwood Boro School District,6,6,6,5,PK-8 & Ungraded,379,12
+637,12,Joseph T   Donahue Elementary School,Barnegat Township School District,6,5,7,5,PK-5 & Ungraded,278,10
+638,13,No 27 Dr   Antonio Pantoja,Elizabeth Public School District,6,3,8,5,PK-8 & Ungraded,971,14
+639,14,Nellie K. Parker Elementary School,Hackensack City School District,6,6,6,6,PK-4 & Ungraded,575,12
+640,15,Hatchery Hill Elementary School,Hackettstown Public School District,6,6,7,4,PK-4 & Ungraded,361,10
+641,16,Stone Bridge Middle School,Upper Freehold Regional School District,6,7,6,3,5-8 & Ungraded,513,10
+642,17,Mary J. Donohoe No. 4 Elementary School,Bayonne School District,6,5,7,4,PK-8,465,20
+643,18,McGalliard Elementary School,Hamilton Township Public School District,6,5,6,7,PK-5,276,14
+644,19,Yardville Elementary School,Hamilton Township Public School District,6,7,6,4,PK-5 & Ungraded,282,13
+645,20,Yardville Heights Elementary School,Hamilton Township Public School District,6,5,7,6,PK-5 & Ungraded,261,9
+646,21,Phillip G. Vroom No. 2 Elementary School,Bayonne School District,6,5,8,5,PK-8 & Ungraded,479,15
+647,22,Bee Meadow Elementary School,Hanover Township Board Of Education School District,6,7,7,3,K-5 & Ungraded,334,9
+648,23,Washington No. 9 Elementary School,Bayonne School District,6,6,5,6,PK-8 & Ungraded,723,17
+649,24,Woodrow Wilson No. 10 Elementary School,Bayonne School District,6,6,6,5,PK-8 & Ungraded,714,18
+650,0,Thomas Jefferson Elementary School,Hawthorne Board Of Education School District,6,6,6,4,PK-5 & Ungraded,288,11
+651,1,Bartle School,Highland Park Board Of Education School District,6,5,8,3,2-5 & Ungraded,461,13
+652,2,Hillsborough Elementary School,Hillsborough Township Public School District,6,9,5,4,K-4 & Ungraded,520,11
+653,3,Triangle Elementary School,Hillsborough Township Public School District,6,7,6,-1,K-4 & Ungraded,369,9
+654,4,Bear Tavern Elementary School,Hopewell Valley Regional School District,6,9,4,7,PK-5 & Ungraded,447,9
+655,5,Toll Gate/Grammar Elementary School,Hopewell Valley Regional School District,6,9,4,-1,K-5 & Ungraded,287,8
+656,6,Belleville PS4,Belleville Public School District,6,5,7,6,PK-6 & Ungraded,430,14
+657,7,Newbury Elementary School,Howell Township Public School District,6,7,8,3,5-Mar,400,15
+658,8,John F. Kennedy Elementary School,Jamesburg Public School District,6,5,9,4,PK-5 & Ungraded,501,13
+659,9,REP ACADEMY SCHOOL NO.8,Elizabeth Public School District,6,4,7,5,K-8 & Ungraded,431,14
+660,10,West Amwell Twp School,South Hunterdon Regional School District,6,5,8,3,K-6,224,9
+661,11,Belleville PS10,Belleville Public School District,6,9,4,7,K-6,171,25
+662,12,Camden Prep Inc.,Camden Prep INC.,6,5,6,6,K-7,734,5
+663,13,"Martin Luther King, Jr No. 11 Elementary School",Jersey City Public School District,6,5,6,6,PK-8 & Ungraded,912,13
+664,14,Julia A. Barnes No. 12 Elementary School,Jersey City Public School District,6,4,8,6,PK-8 & Ungraded,330,10
+665,15,Salome Urena Elementary School,The Newark Public School District,6,3,7,7,PK-4 & Ungraded,285,8
+666,16,Alfred E. Zampella No. 27 Elementary School,Jersey City Public School District,6,7,6,5,PK-8 & Ungraded,929,13
+667,17,Franklin Elementary School,Kearny School District,6,5,7,5,PK-6 & Ungraded,893,10
+668,18,Central School,Keyport School District,6,5,8,3,PK-8 & Ungraded,687,10
+669,19,Slackwood Elementary School,Lawrence Township Public School District,6,6,-1,6,PK-3 & Ungraded,248,10
+670,20,Lebanon Borough Elementary School,Lebanon Borough School District,6,7,5,-1,PK-6,40,8
+671,21,Woodglen Elementary School,Lebanon Township School District,6,7,6,4,5-8 & Ungraded,320,9
+672,22,Lincoln Park Elementary School,Lincoln Park School District,6,8,6,5,PK-4 & Ungraded,488,11
+673,23,"Number 6, Elementary School",Linden Public School District,6,4,8,6,PK-5 & Ungraded,370,14
+674,24,"Number 8, Elementary School",Linden Public School District,6,5,7,6,PK-5 & Ungraded,348,11
+675,0,Number 9,Linden Public School District,6,5,8,5,PK-5 & Ungraded,344,13
+676,1,Number 10,Linden Public School District,6,7,5,6,PK-5 & Ungraded,270,12
+677,2,Long Beach Island Elementary School,Long Beach Island Consolidated School District,5,5,4,6,6-Mar,117,6
+678,3,Lower Alloways Creek Elementary School,Lower Alloways Creek School District,5,6,4,4,PK-8,163,8
+679,4,Alan B. Shepard Elementary School,Old Bridge Township School District,5,6,6,4,K-5 & Ungraded,238,9
+680,5,Memorial Elementary School,Old Bridge Township School District,5,8,3,6,K-5 & Ungraded,382,10
+681,6,Mansfield Twp Elementary School,Mansfield Township Elementary School District,5,5,6,4,PK-6 & Ungraded,609,9
+682,7,Hoover Elementary School,Bergenfield Borough School District,5,5,7,3,K-5 & Ungraded,235,12
+683,8,Ravine Drive Elementary School,Matawan-Aberdeen Regional School District,5,7,-1,3,K-3 & Ungraded,326,10
+684,9,Washington Elementary School,Bergenfield Borough School District,5,8,4,4,K-5,294,15
+685,10,Middle Twp Elementary 2,Middle Township Public School District,5,4,8,3,3-5 & Ungraded,563,11
+686,11,Von E Mauger Middle School,Middlesex Borough Public School District,5,6,4,5,4-8 & Ungraded,773,12
+687,12,New Monmouth Elementary School,Middletown Township Public School District,5,6,4,-1,PK-5 & Ungraded,367,12
+688,13,Holly Glen Elementary School,Monroe Township Public School District,5,7,4,5,PK-4 & Ungraded,515,11
+689,14,Woodland Elementary School,Monroe Township Board Of Education School District,5,7,6,3,4-5 & Ungraded,350,14
+690,15,Mill Lake Elementary School,Monroe Township Board Of Education School District,5,5,-1,5,PK-3 & Ungraded,544,16
+691,16,Clara B Worth Elementary School,Berkeley Township School District,5,4,6,4,PK-4 & Ungraded,586,12
+692,17,Northeast Elementary School,Montclair Public School District,5,7,4,3,K-5 & Ungraded,412,14
+693,18,H & M Potter Elementary School,Berkeley Township School District,5,3,7,3,PK-4 & Ungraded,600,12
+694,19,Mary E. Roberts Elementary School,Moorestown Township School District,5,8,-1,3,PK-3 & Ungraded,346,11
+695,20,Dwight Eisenhower Middle School,Berlin Township School District,5,5,6,4,4-8 & Ungraded,340,9
+696,21,Countryside Elementary School,Mount Laurel Township School District,5,7,4,-1,PK-4 & Ungraded,309,11
+697,22,Fleetwood Elementary School,Mount Laurel Township School District,5,6,6,2,K-4 & Ungraded,372,12
+698,23,Chester M Stephens School,Mount Olive Township School District,5,7,4,4,K-5 & Ungraded,657,13
+699,24,Gables Elementary School,Neptune Township School District,5,2,7,4,PK-5 & Ungraded,269,15
+700,0,Shark River Hills Elementary School,Neptune Township School District,5,4,6,3,PK-5 & Ungraded,264,9
+701,1,Netcong Elementary School,Netcong Elementary School District,5,5,6,3,PK-8 & Ungraded,285,12
+702,2,Abington Ave. Elementary School,The Newark Public School District,5,4,6,5,PK-8 & Ungraded,922,14
+703,3,Ann Street Elementary School,The Newark Public School District,5,6,4,5,PK-8 & Ungraded,1196,17
+704,4,Thomas B  Conley Elementary School,Bethlehem Township School District,5,7,3,-1,PK-5 & Ungraded,233,8
+705,5,Lafayette Street Elementary School,The Newark Public School District,5,5,5,5,PK-8 & Ungraded,1126,17
+706,6,South Street Elementary School,The Newark Public School District,5,2,8,4,PK-7 & Ungraded,672,13
+707,7,Sussex Avenue Elementary School,The Newark Public School District,5,4,5,5,PK-8,457,16
+708,8,Merriam Avenue Elementary School,Newton Public School District,5,5,5,4,PK-4 & Ungraded,475,11
+709,9,Jefferson Elementary School,North Arlington School District,5,6,6,3,K-5,298,19
+710,10,Horace Mann No. 9 Elementary School,North Bergen School District,5,5,6,5,1-8 & Ungraded,1111,13
+711,11,McKinley No. 10 Elementary School,North Bergen School District,5,4,6,6,K-8 & Ungraded,334,10
+712,12,Robert Fulton Annex School,North Bergen School District,5,5,5,5,K-8,1180,13
+713,13,Berkeley Elementary School,Bloomfield Board Of Education School District,5,3,7,4,K-6 & Ungraded,445,10
+714,14,Northfield Community Middle School,Northfield City School District,5,6,4,4,5-8 & Ungraded,409,10
+715,15,Northfield Community Elementary School,Northfield City School District,5,5,6,3,PK-4 & Ungraded,505,10
+716,16,Dogwood Hill Elementary School,Oakland Public School District,5,7,3,-1,K-5,247,8
+717,17,Oaklyn Public School,Oaklyn Public School District,5,6,5,5,PK-5 & Ungraded,233,16
+718,18,Fairview Elementary School,Bloomfield Board Of Education School District,5,6,4,5,PK-6 & Ungraded,531,14
+719,19,Wayside Elementary School,Township Of Ocean School District,5,6,5,3,PK-4 & Ungraded,566,9
+720,20,Oldmans Twp School,Oldmans Township School District,5,7,5,2,PK-8,286,10
+721,21,Heywood Avenue Elementary School,Orange Board Of Education School District,5,4,6,5,PK-7 & Ungraded,363,10
+722,22,Lindbergh Elementary School,Palisades Park Board Of Education School District,5,4,5,-1,6-Jan,0,10
+723,23,West Brook Middle School,Paramus Public School District,5,8,4,5,5-8 & Ungraded,583,10
+724,24,Knollwood Elementary School,Parsippany-Troy Hills Township School District,5,8,4,4,K-5,414,13
+725,0,School No. 5,Passaic City Public School District,5,2,7,6,K-8 & Ungraded,472,10
+726,1,Bloomsbury Elementary School,Bloomsbury School District,5,4,6,-1,PK-8,95,8
+727,2,School 7,Paterson Public School District,5,3,6,4,5-8 & Ungraded,198,8
+728,3,School 19,Paterson Public School District,5,6,4,5,K-4 & Ungraded,367,14
+729,4,School 27,Paterson Public School District,5,4,7,4,PK-6 & Ungraded,841,13
+730,5,Alexander Denbo Elementary School,Pemberton Township School District,5,4,5,5,3-5 & Ungraded,309,11
+731,6,North Boulevard Elementary School,Pequannock Township School District,5,9,3,-1,PK-5 & Ungraded,340,13
+732,7,James J. Flynn Elementary School,Perth Amboy Public School District,5,5,5,5,K-4 & Ungraded,763,11
+733,8,Peter Muschal School,Bordentown Regional School District,5,7,4,3,PK-5 & Ungraded,573,12
+734,9,W.C.K. Walls Elementary School,Pitman Boro Public School District,5,7,5,4,PK-5 & Ungraded,229,12
+735,10,Port Republic Elementary School,Port Republic School District,5,9,2,-1,K-8,101,10
+736,11,Bradley Beach Elementary School,Bradley Beach Elementary School District,5,4,7,3,PK-8,253,8
+737,12,Madison Elementary School,Rahway Public School District,5,5,5,4,PK-6 & Ungraded,346,13
+738,13,Raritan Valley School,Hazlet Township Public School District,5,5,5,6,1-4 & Ungraded,243,9
+739,14,Red Bank Middle School,Red Bank Borough Public School District,5,4,7,3,4-8 & Ungraded,648,12
+740,15,Roberge Elementary School,River Vale Public School District,5,8,3,-1,K-5 & Ungraded,358,12
+741,16,Riverdale Public Elementary School,Riverdale School District,5,7,4,3,PK-8 & Ungraded,334,10
+742,17,Washington Elementary School,Roselle Public School District,5,3,7,4,1-4 & Ungraded,312,13
+743,18,Herbertsville Elementary School,Brick Township Public School District,5,6,6,2,K-5 & Ungraded,242,11
+744,19,Robert Gordon Elementary School,Roselle Park Board Of Education School District,5,6,6,4,PK-5 & Ungraded,266,8
+745,20,Kennedy Elementary School,Roxbury Township School District,5,6,5,-1,K-4 & Ungraded,254,13
+746,21,Helen I. Smith Elementary School,Saddle Brook School District,5,4,5,5,K-6 & Ungraded,311,11
+747,22,Midstreams Elementary School,Brick Township Public School District,5,7,4,5,K-5 & Ungraded,479,11
+748,23,Wandell Elementary School,Saddle River School District,5,10,1,-1,PK-5,162,8
+749,24,Wilson Elementary School,Sayreville Public School District,5,7,-1,4,K-3,362,15
+750,0,Clarendon No. 4 Elementary School,Secaucus Board Of Education School District,5,6,6,4,K-5 & Ungraded,492,10
+751,1,Somerdale Park Elementary School,Somerdale Public School District,5,5,5,-1,PK-8,483,10
+752,2,South Harrison Elementary School,South Harrison Township School District,5,6,5,4,PK-6,357,12
+753,3,Tuscan Elementary School,South Orange-Maplewood School District,5,8,5,2,K-5,626,12
+754,4,Franklin Elementary School,South Plainfield Public School District,5,7,3,6,PK-4 & Ungraded,247,9
+755,5,Benjamin Franklin Middle School,Teaneck Public School District,5,6,5,5,5-8 & Ungraded,541,9
+756,6,Thomas Jefferson Middle School,Teaneck Public School District,5,6,5,4,5-8 & Ungraded,526,9
+757,7,Adamsville Elementary School,Bridgewater-Raritan Regional School District,5,6,6,3,PK-4 & Ungraded,516,9
+758,8,Cedar Grove Elementary School,Toms River Regional School District,5,5,6,3,PK-5 & Ungraded,889,12
+759,9,North Dover Elementary School,Toms River Regional School District,5,7,6,3,K-5 & Ungraded,519,12
+760,10,Eisenhower Elementary School,Bridgewater-Raritan Regional School District,5,8,5,3,5-6 & Ungraded,759,11
+761,11,Tuckerton Elementary School,Tuckerton Borough School District,5,5,6,5,PK-6 & Ungraded,292,9
+762,12,Memorial Elementary School,Union Beach Public School District,5,6,6,4,PK-8,645,9
+763,13,Robert Waters Elementary School,Union City School District,5,3,6,4,PK-6 & Ungraded,1084,14
+764,14,Newell Elementary School,Upper Freehold Regional School District,5,7,5,2,PK-4 & Ungraded,514,11
+765,15,Brigantine Elementary School,Brigantine Public School District,5,5,5,4,PK-4 & Ungraded,307,9
+766,16,Brigantine North School,Brigantine Public School District,5,4,6,5,5-8 & Ungraded,252,8
+767,17,F.N. Brown Elementary School,Verona  Public School District,5,6,5,-1,K-4 & Ungraded,254,13
+768,18,Kresson School,Voorhees Township Board Of Education School District,5,8,5,2,K-5 & Ungraded,386,11
+769,19,Allenwood Elementary School,Wall Township Public School District,5,8,3,-1,K-5 & Ungraded,391,10
+770,20,Central Elementary School,Wall Township Public School District,5,7,5,3,K-5,527,11
+771,21,Woodland School,Warren Township School District,5,9,2,-1,K-5,244,9
+772,22,Washington Memorial Elementary School,Washington Borough School District,5,5,6,3,3-6 & Ungraded,293,7
+773,23,Bedwell Elementary School,Somerset Hills Regional School District,5,7,5,3,PK-4 & Ungraded,566,10
+774,24,Bells Elementary School,Washington Township School District,5,4,6,5,1-5 & Ungraded,367,9
+775,0,Wedgwood School,Washington Township School District,5,4,6,3,1-5 & Ungraded,456,9
+776,1,Whitman Elementary School,Washington Township School District,5,7,5,4,K-5 & Ungraded,504,10
+777,2,Thomas Jefferson Elementary School,Washington Township School District,5,4,7,2,K-5 & Ungraded,600,9
+778,3,Waterford Elementary School,Waterford Township Public School District,5,4,7,4,"PK, 4-6 & Ungraded",400,10
+779,4,Pines Lake Elementary School,Wayne Township Public School District,5,6,4,6,K-5 & Ungraded,380,9
+780,5,Wenonah Elementary School,Wenonah Boro School District,5,7,3,-1,PK-6 & Ungraded,175,8
+781,6,Green-Fields Elementary School,West Deptford Township Public School District,5,6,5,3,"K, 3-4 & Ungraded",488,13
+782,7,West Deptford Middle School,West Deptford Township Public School District,5,6,6,3,5-8 & Ungraded,900,12
+783,8,Frank Antonides Elementary School,West Long Branch Board Of Education School District,5,8,5,3,8-May,256,8
+784,9,Marshall Hill Elementary School,West Milford Township Public School District,5,7,3,5,K-6 & Ungraded,271,10
+785,10,Harry L. Bain Elementary School,West New York Board Of Education School District,5,4,5,5,K-6,661,14
+786,11,Gregory Elementary School,West Orange Public School District,5,8,4,5,K-5,442,10
+787,12,Westampton Middle School,Westampton Township Public School District,5,5,5,4,4-8 & Ungraded,549,12
+788,13,Parkview Elementary School,Westville Boro Public School District,5,4,8,3,PK-6 & Ungraded,373,11
+789,14,Marie V. Duffy Elementary School,Wharton Borough Board Of Education School District,5,5,6,4,PK-5 & Ungraded,462,10
+790,15,Ford Avenue Elementary School,Woodbridge Township School District,5,4,7,4,K-5 & Ungraded,247,12
+791,16,Port Reading Elementary School,Woodbridge Township School District,5,4,7,4,PK-5 & Ungraded,392,15
+792,17,Woodbine Avenue Elementary School,Woodbridge Township School District,5,4,8,3,K-5 & Ungraded,506,16
+793,18,Mary S. Shoemaker Elementary School,Woodstown-Pilesgrove Regional School District,5,7,5,3,1-5 & Ungraded,464,10
+794,19,Calvin Coolidge Elementary School,Wyckoff Township Public School District,5,9,2,-1,K-5,298,11
+795,20,Califon Borough Elementary School,Califon School District,5,9,3,-1,PK-8,74,6
+796,21,Alexandria School,Alexandria Township School District,5,7,4,2,8-Apr,282,8
+797,22,James F. Cooper Elementary School,Cherry Hill Township School District,5,7,3,-1,K-5 & Ungraded,213,11
+798,23,Joyce Kilmer Elementary School,Cherry Hill Township School District,5,6,5,5,K-5,460,14
+799,24,Woodcrest Elementary School,Cherry Hill Township School District,5,7,5,3,K-5 & Ungraded,345,14
+800,0,Chesterfield Elementary School,Chesterfield Township School District,5,7,5,2,PK-6 & Ungraded,775,13
+801,1,School #6/Middle School,Cliffside Park School District,5,7,4,5,1-8 & Ungraded,753,12
+802,2,School #3,Clifton Public School District,5,4,6,5,K-5,286,17
+803,3,Lincoln Elementary School,Ridgefield Park Township School District,5,4,6,5,PK-6 & Ungraded,393,10
+804,4,Alpha School,Alpha Borough Public School District,5,4,7,2,K-8,205,8
+805,5,Madison School  No 10,Garfield Public School District,5,7,4,6,PK-5 & Ungraded,267,9
+806,6,School #8,Clifton Public School District,5,8,3,4,PK-5,176,16
+807,7,School #9,Clifton Public School District,5,7,4,4,PK-5 & Ungraded,305,14
+808,8,Union Valley Elementary School,Gloucester Township Public School District,5,6,6,3,PK-5 & Ungraded,455,9
+809,9,Greenwich School,Greenwich Township School District,5,7,5,4,PK-5 & Ungraded,426,10
+810,10,Moorestown Upper Elementary School,Moorestown Township School District,5,8,5,2,4-6 & Ungraded,916,10
+811,11,School #13,Clifton Public School District,5,5,6,5,K-5,472,15
+812,12,Robert Morris School,South Bound Brook Public School District,5,5,6,4,PK-8 & Ungraded,423,11
+813,13,Mark Newbie Elementary School,Collingswood Public School District,5,7,3,-1,K-5 & Ungraded,133,11
+814,14,Thomas Sharp Elementary School,Collingswood Public School District,5,3,6,4,PK-5 & Ungraded,184,9
+815,15,Hillside Ave School,Cranford Public School District,5,7,3,5,K-8 & Ungraded,702,9
+816,16,Deerfield Township Elementary School,Deerfield Township School District,5,4,5,5,PK-8,307,10
+817,17,Delran Intermediate School,Delran Township School District,5,4,6,3,3-5 & Ungraded,691,12
+818,18,Good Intent Elementary School,Deptford Township Public School District,5,4,6,4,2-6 & Ungraded,346,11
+819,19,Downe Twp Elementary School,Downe Township School District,5,3,6,5,PK-8 & Ungraded,183,11
+820,20,Hardyston Middle School,Hardyston Township School District,5,7,5,3,5-8 & Ungraded,315,10
+821,21,Lopatcong Twp Middle School,Lopatcong Township School District,5,6,4,4,5-8 & Ungraded,356,15
+822,22,John P. Faber Elementary School,Dunellen Public School District,5,5,5,4,PK-5 & Ungraded,598,11
+823,23,Samsel Uppper Elementary School,Sayreville Public School District,5,6,5,4,"PK, 4-5 & Ungraded",1095,13
+824,24,Dionne Warwick Institute,East Orange School District,5,3,6,5,PK-5 & Ungraded,462,13
+825,0,Sovereign Ave School,Atlantic City Public School District,5,4,6,3,PK-8 & Ungraded,735,11
+826,1,Catto Community School,Camden City Public School District,5,2,8,3,PK-8 & Ungraded,579,11
+827,2,Carlstadt Public School,Carlstadt Public School District,5,5,5,5,PK-8 & Ungraded,549,12
+828,3,No 29 Dr A Einstein Academy,Elizabeth Public School District,5,5,6,5,PK-8 & Ungraded,890,12
+829,4,J. Garfield Jackson Senior Academy Elementary School,East Orange School District,5,5,5,4,PK-5 & Ungraded,256,13
+830,5,North Hanover Township Upper Elementary School,North Hanover Township School District,5,6,5,5,5-6 & Ungraded,268,10
+831,6,Alfred S. Faust Intermediate Elementary School,East Rutherford School District,5,6,6,4,5-8 & Ungraded,345,10
+832,7,Woodmere Elementary School,Eatontown Public School District,5,7,5,4,"PK, 3-4 & Ungraded",232,11
+833,8,Magowan Elementary School,Edgewater Park Township School District,5,3,7,3,PK-4 & Ungraded,528,12
+834,9,No 5 Mabel Holmes Middle School,Elizabeth Public School District,5,3,6,4,PK-8 & Ungraded,863,13
+835,10,No 4 John Battin Elementary School,Elizabeth Public School District,5,3,7,4,K-8 & Ungraded,825,14
+836,11,"Number 1, George Washington Elementary School",Elizabeth Public School District,5,3,6,4,PK-8 & Ungraded,579,15
+837,12,"Number 13, Benjamin Franklin Elementary School",Elizabeth Public School District,5,2,7,4,K-8 & Ungraded,463,10
+838,13,"Number 14, Abraham Lincoln Elementary School",Elizabeth Public School District,5,4,6,4,K-8 & Ungraded,875,13
+839,14,Richmond Avenue Elementary School,Atlantic City Public School District,5,5,5,4,PK-8 & Ungraded,674,11
+840,15,"Number 18, Robert Morris Elementary School",Elizabeth Public School District,5,3,6,5,K-8,573,14
+841,16,"Number 19, Woodrow Wilson Elementary School",Elizabeth Public School District,5,4,5,5,PK-8 & Ungraded,656,13
+842,17,"Number 20, John Marshall Elementary School",Elizabeth Public School District,5,3,7,4,K-8 & Ungraded,382,12
+843,18,No 3 Lacorte Peterstown,Elizabeth Public School District,5,3,8,4,K-8 & Ungraded,728,13
+844,19,Aura Elementary School,Elk Township School District,5,4,6,4,PK-6,349,11
+845,20,Gilbert Avenue Elementary School,Elmwood Park Board Of Education School District,5,5,4,5,PK-5 & Ungraded,409,15
+846,21,Francis Lore Elementary School,Ewing Township Public School District,5,5,7,3,PK-5 & Ungraded,557,13
+847,22,Folsom Elementary School,Folsom Borough School District,5,4,7,4,PK-8,402,12
+848,23,Elizabeth Avenue Elementary School,Franklin Township Public School District,5,3,7,3,PK-5 & Ungraded,493,12
+849,24,MacAfee Elementary School,Franklin Township Public School District,5,6,5,4,PK-5 & Ungraded,381,10
+850,0,Park Avenue Elementary School,Freehold Borough Public School District,5,4,6,3,3-5 & Ungraded,532,14
+851,1,Woodland Elementary School,Barrington School District,5,5,5,5,5-8 & Ungraded,277,8
+852,2,Joseph J Catena School,Freehold Township School District,5,6,5,3,K-5 & Ungraded,488,11
+853,3,C. Richard Applegate Elementary School,Freehold Township School District,5,6,4,4,K-5 & Ungraded,424,11
+854,4,Laura Donovan Elementary School,Freehold Township School District,5,7,5,2,K-5 & Ungraded,436,10
+855,5,West Freehold Elementary School,Freehold Township School District,5,8,4,4,K-5 & Ungraded,501,12
+856,6,Frelinghuysen Township Elementary School,Frelinghuysen Township School District,5,7,4,-1,PK-6,148,11
+857,7,Smithville Elementary School,Galloway Township Public School District,5,4,7,3,K-6 & Ungraded,634,12
+858,8,Bay Head Elementary School,Bay Head Borough School District,5,8,3,-1,K-8 & Ungraded,122,8
+859,9,Midtown Community No.8 Elementary School,Bayonne School District,5,4,7,4,PK-8 & Ungraded,1204,18
+860,10,Cold Springs School,Gloucester City Public School District,5,5,-1,5,PK-3 & Ungraded,850,12
+861,11,Loring-Flemming Elementary School,Gloucester Township Public School District,5,4,8,3,K-5 & Ungraded,688,12
+862,12,James W. Lilley Elementary School,Gloucester Township Public School District,5,5,6,3,PK-5 & Ungraded,497,9
+863,13,Gen   Charles G Harker School,Swedesboro-Woolwich Board Of Education School District,5,6,5,3,3-5 & Ungraded,676,11
+864,14,Irene E Feldkirchner Elementary School,Green Brook Township Public School District,5,8,5,4,PK-4 & Ungraded,387,11
+865,15,John M. Bailey No.12 Elementary School,Bayonne School District,5,5,5,4,PK-8 & Ungraded,659,22
+866,16,Fanny M. Hillers Elementary School,Hackensack City School District,5,5,5,5,PK-4 & Ungraded,627,13
+867,17,Hackettstown Middle School,Hackettstown Public School District,5,7,5,4,5-8 & Ungraded,458,12
+868,18,Number 19 Daniel F Ryan,Passaic City Public School District,5,2,8,5,"PK, 2-8 & Ungraded",874,11
+869,19,Horace Mann No. 6 Elementary School,Bayonne School District,5,4,6,3,PK-8 & Ungraded,577,16
+870,20,George L. Hess Elementary School,Hamilton Township School District,5,3,7,3,"PK, 2-5 & Ungraded",1425,10
+871,21,Langtree Elementary School,Hamilton Township Public School District,5,7,4,3,PK-5 & Ungraded,388,13
+872,22,Mercerville Elementary School,Hamilton Township Public School District,5,6,4,5,PK-5,330,10
+873,23,Morgan Elementary School,Hamilton Township Public School District,5,6,5,4,PK-5 & Ungraded,313,12
+874,24,Sayen Elementary School,Hamilton Township Public School District,5,5,5,3,PK-5 & Ungraded,288,13
+875,0,Sunnybrae Elementary School,Hamilton Township Public School District,5,4,7,4,PK-5 & Ungraded,316,12
+876,1,Marian McKeown Elementary School,Marian McKeown School District,5,8,3,5,K-6,280,8
+877,2,Hardyston Elementary  School,Hardyston Township School District,5,5,7,2,PK-4 & Ungraded,353,11
+878,3,Harmony Township School,Harmony Township School District,5,4,7,1,PK-8,243,8
+879,4,Harrison Township Elementary School,Harrison Township School District,5,8,-1,2,PK-3 & Ungraded,753,11
+880,5,Washington Elementary School,Hawthorne Board Of Education School District,5,5,4,6,K-5 & Ungraded,270,13
+881,6,Beach Haven Elementary School,Beach Haven School District,5,5,5,-1,PK-6,52,7
+882,7,Highlands School,Highlands Elementary School District,5,6,4,5,PK-6 & Ungraded,189,10
+883,8,Thomas G Connors,Hoboken Public School District,5,4,6,5,K-6 & Ungraded,232,8
+884,9,Hopewell Elementary School,Hopewell Valley Regional School District,5,9,2,-1,PK-5 & Ungraded,442,9
+885,10,Belleville PS5,Belleville Public School District,5,5,6,4,K-6 & Ungraded,420,17
+886,11,Belleville PS7,Belleville Public School District,5,3,7,4,PK-6 & Ungraded,430,15
+887,12,Arthur Stanlick Elementary School,Jefferson Township School District,5,4,6,5,3-5 & Ungraded,280,12
+888,13,White Rock Elementary School,Jefferson Township School District,5,6,5,3,3-5 & Ungraded,325,11
+889,14,Smalley Elementary School,Bound Brook School District,5,3,8,3,4-6 & Ungraded,400,12
+890,15,School 16,Paterson Public School District,5,2,7,4,PK-8 & Ungraded,851,13
+891,16,Number 20 Elementary School,Jersey City Public School District,5,3,6,4,PK-5 & Ungraded,684,16
+892,17,Rev. Dr. Ercel F. Webb School,Jersey City Public School District,5,3,6,4,PK-5 & Ungraded,681,12
+893,18,Patricia M. Noonan School Ps #26,Jersey City Public School District,5,7,4,5,PK-5 & Ungraded,422,9
+894,19,Bell Oaks Elementary School,Bellmawr Public School District,5,5,6,5,5-8 & Ungraded,473,12
+895,20,Nicolas Copernicus No. 25 Elementary School,Jersey City Public School District,5,6,6,4,PK-5 & Ungraded,711,11
+896,21,Christa McAuliffe School,Jersey City Public School District,5,5,6,5,PK-8 & Ungraded,1023,12
+897,22,Garfield Elementary School,Kearny School District,5,4,6,4,PK-6 & Ungraded,501,13
+898,23,Schuyler Elementary School,Kearny School District,5,5,4,5,PK-6 & Ungraded,452,13
+899,24,Belmar Elementary School,Belmar Elementary School District,5,5,7,3,PK-8 & Ungraded,466,9
+900,0,Harding Elementary School,Kenilworth School District,5,4,7,3,PK-6 & Ungraded,690,11
+901,1,Lanoka Harbor Elementary School,Lacey Township School District,5,7,6,3,K-4 & Ungraded,466,11
+902,2,Ella G Clarke Elementary School,Lakewood Township School District,5,2,8,5,2-5 & Ungraded,365,9
+903,3,Myron L. Powell Elementary School,Lawrence Township School District,5,4,6,4,PK-8,500,11
+904,4,Eldridge Park School,Lawrence Township Public School District,5,6,-1,4,K-3 & Ungraded,210,9
+905,5,Valley View Elementary School,Lebanon Township School District,5,6,4,-1,PK-4 & Ungraded,310,9
+906,6,Seaview Elementary School,Linwood City School District,5,9,4,3,PK-4 & Ungraded,425,12
+907,7,Frog Pond Elementary School,Little Egg Harbor Township School District,5,4,6,4,4-6 & Ungraded,573,10
+908,8,Memorial Elementary School,Little Ferry Public School District,5,6,5,5,5-8 & Ungraded,401,9
+909,9,Washington Elementary School,Lodi Public School District,4,7,1,5,PK-5 & Ungraded,366,13
+910,10,Wilson Elementary School,Lodi Public School District,4,6,2,5,PK-5 & Ungraded,331,13
+911,11,A.A. Anastasia Elementary School,Long Branch Public School District,4,2,7,3,K-5 & Ungraded,541,7
+912,12,Sandman Consolidated Elementary School,Lower Township Elementary School District,4,3,5,4,6-May,462,11
+913,13,Magnolia Elementary School,Magnolia School District,4,4,4,3,PK-8,404,10
+914,14,Whiting Elementary School,Manchester Township School District,4,5,4,2,PK-5 & Ungraded,249,9
+915,15,J. Mason Tomlin Elementary School,Mantua Township Board Of Education School District,4,7,3,4,4-6 & Ungraded,520,9
+916,16,Lloyd Road Elementary School,Matawan-Aberdeen Regional School District,4,6,3,3,4-5 & Ungraded,614,10
+917,17,Maurice River Township Elementary School,Maurice River Township Elementary School District,4,3,7,2,PK-8 & Ungraded,403,11
+918,18,Merchantville Elementary School,Merchantville School District,4,5,4,4,PK-8 & Ungraded,425,12
+919,19,Parker Elementary School,Middlesex Borough Public School District,4,5,-1,3,K-3 & Ungraded,218,13
+920,20,Ocean Avenue Elementary School,Middletown Township Public School District,4,5,4,3,PK-5,294,13
+921,21,Harmony Elementary School,Middletown Township Public School District,4,6,4,3,PK-5 & Ungraded,507,13
+922,22,Port Monmouth Elementary School,Middletown Township Public School District,4,4,3,4,K-5,207,11
+923,23,Milford Elementary School,Milford Boro School District,4,5,4,-1,PK-8,86,6
+924,24,Parkview Elementary School,Milltown Borough Public School District,4,7,-1,2,PK-3,314,10
+925,0,Williamstown Middle School,Monroe Township Public School District,4,5,4,3,5-8 & Ungraded,1898,12
+926,1,Montague Township School,Montague Township School District,4,6,4,2,PK-8 & Ungraded,253,9
+927,2,Charles H Bullock School,Montclair Public School District,4,7,3,2,K-5 & Ungraded,448,11
+928,3,Mary Bray Elementary School,Mt. Ephraim School District,4,7,3,4,PK-4,240,9
+929,4,Gertrude Folwell Elementary School,Mount Holly Township Public School District,4,4,4,3,3-5 & Ungraded,323,12
+930,5,Hartford Upper Elementary School,Mount Laurel Township School District,4,6,5,2,5-6 & Ungraded,961,11
+931,6,Parkway Elementary School,Mount Laurel Township School District,4,7,3,4,K-4,342,12
+932,7,Sandshore Road Elementary School,Mount Olive Township School District,4,7,3,2,K-5 & Ungraded,449,13
+933,8,Tinc Road Elementary School,Mount Olive Township School District,4,8,2,4,K-5 & Ungraded,459,12
+934,9,Mullica Twp Primary School,Mullica Township School District,4,5,3,5,PK-4 & Ungraded,382,10
+935,10,Mullica Twp Middle School,Mullica Township School District,4,5,5,3,5-8 & Ungraded,315,11
+936,11,Woodrow Wilson Elementary School,Neptune City School District,4,3,6,2,PK-8 & Ungraded,263,7
+937,12,Summerfield Elementary School,Neptune Township School District,4,3,6,3,PK-5 & Ungraded,461,10
+938,13,Roosevelt Elementary School,New Brunswick Public School District,4,2,6,4,K-5 & Ungraded,733,12
+939,14,Woodrow Wilson Elementary School,New Brunswick Public School District,4,4,4,3,PK-8 & Ungraded,416,11
+940,15,Branch Brook School,The Newark Public School District,4,6,2,4,PK-4 & Ungraded,141,10
+941,16,Camden Street Elementary School,The Newark Public School District,4,3,4,5,PK-8 & Ungraded,617,11
+942,17,Harriet Tubman Elementary School,The Newark Public School District,4,2,5,4,PK-6 & Ungraded,372,13
+943,18,Hawkins Street Elementary School,The Newark Public School District,4,2,7,3,PK-8 & Ungraded,661,16
+944,19,Dr. E. Alma Flagg Elementary School,The Newark Public School District,4,2,6,3,PK-8 & Ungraded,487,15
+945,20,Halsted Street Middle School,Newton Public School District,4,4,4,3,5-8 & Ungraded,345,10
+946,21,Arthur M. Judd Elementary School,North Brunswick Township Public School District,4,5,4,2,PK-5 & Ungraded,793,10
+947,22,John Adams Elementary School,North Brunswick Township Public School District,4,5,5,3,K-5 & Ungraded,598,10
+948,23,Parsons Elementary School,North Brunswick Township Public School District,4,3,6,2,PK-5 & Ungraded,706,11
+949,24,High Mountain Middle School,North Haledon School District,4,7,4,2,5-8 & Ungraded,275,10
+950,0,West End Elementary School,North Plainfield Boro School District,4,3,5,3,PK-4 & Ungraded,488,10
+951,1,Manito Elementary School,Oakland Public School District,4,8,1,-1,K-5 & Ungraded,266,7
+952,2,Ocean City Intermediate School,Ocean City School District,4,6,5,2,4-8 & Ungraded,537,10
+953,3,Ocean City Primary School,Ocean City School District,4,7,-1,2,K-3 & Ungraded,321,11
+954,4,Ocean Gate Elementary School,Ocean Gate School District,4,4,4,3,PK-6 & Ungraded,142,10
+955,5,Ocean Twp Intermediate School,Township Of Ocean School District,4,6,3,2,5-8 & Ungraded,1067,10
+956,6,Ocean Twp Elementary School,Township Of Ocean School District,4,3,6,3,PK-4 & Ungraded,403,9
+957,7,Park Avenue Elementary School,Orange Board Of Education School District,4,3,5,4,PK-8 & Ungraded,427,10
+958,8,Samuel R. Donald Elementary School,Bloomingdale School District,4,5,5,3,4-Feb,169,12
+959,9,Walter T. Bergen Middle School,Bloomingdale School District,4,6,4,3,8-May,252,12
+960,10,Millington Elementary School,Long Hill Township School District,4,8,2,4,2-5 & Ungraded,363,11
+961,11,School 3,Paterson Public School District,4,2,6,4,K-8 & Ungraded,415,12
+962,12,School 8,Paterson Public School District,4,1,6,3,K-8 & Ungraded,495,12
+963,13,School 18,Paterson Public School District,4,2,5,3,PK-8 & Ungraded,935,14
+964,14,School 24,Paterson Public School District,4,3,5,4,PK-8 & Ungraded,840,14
+965,15,School 25,Paterson Public School District,4,3,5,3,PK-8 & Ungraded,601,13
+966,16,School 29,Paterson Public School District,4,3,5,4,K-4 & Ungraded,340,13
+967,17,Loudenslager Elementary School,Paulsboro Public School District,4,2,6,2,3-6 & Ungraded,329,11
+968,18,Samuel T. Busansky Elementary School,Pemberton Township School District,4,3,5,3,3-5 & Ungraded,333,10
+969,19,Anthony V Ceres School,Perth Amboy Public School District,4,3,4,4,K-4,651,12
+970,20,Hn Richardson 21 Cent School,Perth Amboy Public School District,4,3,5,4,K-4 & Ungraded,710,10
+971,21,Albert M. Bean Elementary School,Pine Hill School District,4,3,5,2,PK-5 & Ungraded,370,12
+972,22,Arbor Elementary School,Piscataway Township School District,4,5,4,3,4-5 & Ungraded,559,13
+973,23,Dwight D. Eisenhower Elementary School,Piscataway Township School District,4,5,-1,3,K-3 & Ungraded,506,14
+974,24,Memorial Elementary School,Pitman Boro Public School District,4,6,3,-1,PK-5 & Ungraded,188,8
+975,0,Olivet School,Pittsgrove Township Board Of Education School District,4,5,5,3,2-4 & Ungraded,357,13
+976,1,Pittsgrove Twp Middle School,Pittsgrove Township Board Of Education School District,4,6,4,3,5-8 & Ungraded,502,11
+977,2,Evergreen Elementary School,Plainfield Public School District,4,2,5,3,K-5 & Ungraded,531,14
+978,3,Leeds Ave Elementary School,Pleasantville Public School District,4,3,4,4,PK-5 & Ungraded,625,9
+979,4,Johnson Park School,Princeton Public School District,4,8,3,3,PK-5 & Ungraded,369,13
+980,5,Quinton Township Elementary School,Quinton Township Board Of Education School District,4,5,4,3,PK-8,306,11
+981,6,Whiton Elementary School,Branchburg Township School District,4,7,-1,2,PK-3 & Ungraded,631,9
+982,7,Franklin Elementary School,Rahway Public School District,4,3,6,3,PK-6,718,13
+983,8,Grover Cleveland Elementary School,Rahway Public School District,4,2,6,3,PK-6 & Ungraded,548,13
+984,9,Lillian Drive School,Hazlet Township Public School District,4,5,4,4,1-4 & Ungraded,252,8
+985,10,Roosevelt Elementary School,Ridgefield Park Township School District,4,4,5,4,K-6 & Ungraded,409,13
+986,11,Warren H. Wolf Elementary School,Brick Township Public School District,4,6,-1,3,PK-5 & Ungraded,351,11
+987,12,Woodside Elementary School,River Vale Public School District,4,8,2,-1,PK-5 & Ungraded,341,11
+988,13,Drum Point Road Elementary School,Brick Township Public School District,4,5,4,2,K-5 & Ungraded,430,10
+989,14,Riverton Elementary School,Riverton School District,4,8,3,2,PK-8,290,11
+990,15,Roosevelt Elementary School,Roosevelt Public School District,4,9,1,-1,PK-6,81,11
+991,16,Harrison Elementary School,Roselle Public School District,4,4,5,4,1-4 & Ungraded,294,14
+992,17,Nixon Elementary School,Roxbury Township School District,4,5,5,3,PK-4 & Ungraded,258,11
+993,18,Lanes Mill Elementary School,Brick Township Public School District,4,4,5,3,K-5 & Ungraded,568,11
+994,19,Franklin Elementary School,Saddle Brook School District,4,5,4,4,K-6 & Ungraded,320,11
+995,20,Long Memorial Elementary School,Saddle Brook School District,4,6,4,3,K-6,272,11
+996,21,Liberty Twp Elementary School,Great Meadows Regional School District,4,8,3,1,3-5 & Ungraded,204,8
+997,22,Jordan Rd Elementary School,Somers Point School District,4,3,5,3,4-8 & Ungraded,425,10
+998,23,Jefferson Elementary School,South Orange-Maplewood School District,4,8,3,2,3-5 & Ungraded,555,13
+999,24,Seth Boyden Elementary School,South Orange-Maplewood School District,4,5,5,3,K-5 & Ungraded,496,12
+1000,0,South River Elementary School,South River Public School District,4,3,5,3,"PK, 3-5 & Ungraded",567,17
+1001,1,Parkview Elementary School,Stratford School District,4,5,-1,4,PK-3 & Ungraded,367,8
+1002,2,Wantage Elementary School,Sussex-Wantage Regional School District,4,5,4,3,3-5 & Ungraded,355,9
+1003,3,Tabernacle Elementary School,Tabernacle Township School District,4,5,4,3,PK-4,373,10
+1004,4,East Dover Elementary School,Toms River Regional School District,4,4,5,3,PK-5 & Ungraded,702,11
+1005,5,Silver Bay Elementary School,Toms River Regional School District,4,5,3,3,PK-5 & Ungraded,637,12
+1006,6,Walnut Street Elementary School,Toms River Regional School District,4,3,5,3,K-5 & Ungraded,757,12
+1007,7,Washington Street Elementary School,Toms River Regional School District,4,5,5,3,K-5 & Ungraded,369,15
+1008,8,Washington Elementary School,Trenton Public School District,4,3,5,4,K-5 & Ungraded,409,14
+1009,9,John F. Kennedy Elementary School,Bridgewater-Raritan Regional School District,4,5,4,2,K-4,436,9
+1010,10,Lillian M Dunfee Elementary School,Barnegat Township School District,4,4,4,3,K-5 & Ungraded,382,11
+1011,11,Cecil S  Collins Elementary School,Barnegat Township School District,4,5,3,4,K-5 & Ungraded,390,12
+1012,12,Hannah Caldwell Elementary School,Twp Of Union Board Of Education School District,4,7,2,6,PK-4 & Ungraded,508,11
+1013,13,Battle Hill Elementary School,Twp Of Union Board Of Education School District,4,5,4,3,PK-4 & Ungraded,391,11
+1014,14,Franklin Elementary School,Twp Of Union Board Of Education School District,4,5,3,5,PK-4 & Ungraded,417,10
+1015,15,Lounsberry Hollow,Vernon Township School District,4,5,4,4,4-5 & Ungraded,410,6
+1016,16,Rolling Hills Elementary School,Vernon Township School District,4,5,-1,4,2-3 & Ungraded,429,10
+1017,17,Laning Avenue Elementary School,Verona  Public School District,4,9,2,-1,PK-4 & Ungraded,245,9
+1018,18,Julia A. Traphagen Elementary School,Waldwick School District,4,8,3,1,PK-5 & Ungraded,442,11
+1019,19,Jefferson Elementary School,Wallington Boro School District,4,5,-1,4,K-3 & Ungraded,243,15
+1020,20,John F. Kennedy Elementary School,Wayne Township Public School District,4,6,4,3,K-5 & Ungraded,416,10
+1021,21,Randall Carter Elementary School,Wayne Township Public School District,4,6,3,3,PK-5 & Ungraded,334,11
+1022,22,Ryerson Elementary School,Wayne Township Public School District,4,4,4,5,PK-5 & Ungraded,273,7
+1023,23,Public School Number One,West New York Board Of Education School District,4,3,5,4,K-6 & Ungraded,834,13
+1024,24,Crest Memorial Elementary School,Wildwood Crest Borough School District,4,4,5,2,PK-8,261,8
+1025,0,Hawthorne Park Elementary School,Willingboro Public School District,4,2,6,3,1-4 & Ungraded,392,16
+1026,1,W  R  James Sr Elementary School,Willingboro Public School District,4,1,6,3,1-4 & Ungraded,347,15
+1027,2,Winfield Elementary School,Winfield Township School District,4,3,5,5,PK-8,135,10
+1028,3,Winslow Township School No. 3 Elementary School,Winslow Township School District,4,4,-1,4,PK-3 & Ungraded,390,12
+1029,4,Winslow Township School No. 4 Elementary School,Winslow Township School District,4,5,-1,4,PK-3 & Ungraded,508,11
+1030,5,Winslow Township School No. 5 Elementary School,Winslow Township School District,4,4,4,3,4-6 & Ungraded,566,10
+1031,6,Avenel Street Elementary School,Woodbridge Township School District,4,4,4,3,K-5,398,15
+1032,7,Matthew Jago Elementary School,Woodbridge Township School District,4,4,5,3,PK-5 & Ungraded,406,10
+1033,8,Lafayette Estates Elementary School,Woodbridge Township School District,4,3,5,3,K-5 & Ungraded,483,19
+1034,9,Lynn Crest Elementary School,Woodbridge Township School District,4,5,5,2,PK-5 & Ungraded,336,13
+1035,10,Menlo Park Terrace Elementary School,Woodbridge Township School District,4,6,3,4,K-5,349,15
+1036,11,Ross Street Elementary School,Woodbridge Township School District,4,2,6,2,K-5 & Ungraded,383,14
+1037,12,Evergreen Avenue Elementary School,Woodbury City Public School District,4,2,5,4,PK-5 & Ungraded,291,13
+1038,13,Jefferson Elementary School,Caldwell-West Caldwell Public School District,4,8,2,-1,K-5 & Ungraded,276,15
+1039,14,Davis Elementary School,Camden City Public School District,4,2,5,3,PK-8 & Ungraded,321,10
+1040,15,U.S. Wiggins Elementary School,Camden City Public School District,4,1,7,3,PK-8 & Ungraded,386,11
+1041,16,Pvt. Nicholas Minue Elementary School,Carteret Public School District,4,6,3,3,PK-5 & Ungraded,653,12
+1042,17,Clara Barton Elementary School,Cherry Hill Township School District,4,6,3,3,K-5 & Ungraded,477,13
+1043,18,Horace Mann Elementary School,Cherry Hill Township School District,4,7,3,3,K-5 & Ungraded,277,11
+1044,19,James Johnson Elementary School,Cherry Hill Township School District,4,5,4,2,K-5 & Ungraded,424,12
+1045,20,Kingston Elementary School,Cherry Hill Township School District,4,6,3,4,K-5 & Ungraded,367,11
+1046,21,Thomas Paine Elementary School,Cherry Hill Township School District,4,7,4,2,K-5 & Ungraded,366,11
+1047,22,Herma S  Simmons Elementary School,Clayton Public School District,4,3,5,3,PK-5 & Ungraded,698,5
+1048,23,Alloway Twp School,Alloway Twp School District,4,5,4,2,PK-8,361,9
+1049,24,School #1,Clifton Public School District,4,3,6,3,K-5,264,16
+1050,0,Fountain Woods Elementary School,Burlington Township Board Of Education School District,4,5,4,4,3-5 & Ungraded,793,12
+1051,1,Johnnie L. Cochran Junior Academy Elementary School,East Orange School District,4,4,4,5,K-5 & Ungraded,193,10
+1052,2,Benjamin Banneker Academy,East Orange School District,4,3,5,5,PK-5 & Ungraded,511,12
+1053,3,Pohatcong School,Pohatcong Township School District,4,6,3,1,PK-8,302,10
+1054,4,School #5,Clifton Public School District,4,4,5,3,K-5 & Ungraded,393,15
+1055,5,Ventnor Elementary School,Ventnor City School District,4,3,6,3,PK-4 & Ungraded,376,9
+1056,6,School #12,Clifton Public School District,4,4,5,4,PK-5 & Ungraded,657,13
+1057,7,Pennsauken Intermediate School,Pennsauken Township Board Of Education School District,4,3,5,3,4-5 & Ungraded,702,12
+1058,8,Oak Valley Elementary School,Deptford Township Public School District,4,5,3,4,2-6 & Ungraded,379,11
+1059,9,Lincoln Elementary School,Dumont Public School District,4,7,2,5,K-5,150,9
+1060,10,Veterans Memorial School,Union City School District,4,4,4,4,PK-5,606,15
+1061,11,Memorial Elementary School,Howell Township Public School District,4,5,5,3,3-5 & Ungraded,301,11
+1062,12,Berkeley Township Elementary School,Berkeley Township School District,4,4,5,3,4-6 & Ungraded,668,12
+1063,13,Langston Hughes School,East Orange School District,4,3,4,4,PK-5 & Ungraded,589,11
+1064,14,Ecole T  Loverture School,East Orange School District,4,3,5,5,PK-5 & Ungraded,297,10
+1065,15,Cicely Tyson Com Elementary School,East Orange School District,4,3,5,4,PK-5 & Ungraded,504,9
+1066,16,Grace Norton Rogers School,East Windsor Regional School District,4,6,4,3,"PK, 3-5 & Ungraded",616,11
+1067,17,E H Slaybaugh Elementary School,Egg Harbor Township School District,4,5,-1,3,PK-3,851,13
+1068,18,"Number 2, Winfield Scott Elementary School",Elizabeth Public School District,4,2,6,3,PK-8 & Ungraded,655,12
+1069,19,"Number 12, Elmora Elementary School",Elizabeth Public School District,4,3,5,4,PK-8 & Ungraded,688,13
+1070,20,Sixteenth Avenue Elementary School,Elmwood Park Board Of Education School District,4,4,3,4,PK-5 & Ungraded,463,10
+1071,21,Dr M L King Jr School Comp,Atlantic City Public School District,4,2,5,3,PK-8 & Ungraded,611,11
+1072,22,Marlton Elementary School,Evesham Township School District,4,5,4,-1,K-5 & Ungraded,438,12
+1073,23,H.L. Beeler Elementary School,Evesham Township School District,4,5,5,2,K-5 & Ungraded,592,13
+1074,24,J. Harold Vanzant Elementary School,Evesham Township School District,4,5,3,3,K-5 & Ungraded,513,11
+1075,0,Parkway Elementary School,Ewing Township Public School District,4,3,6,3,PK-5 & Ungraded,409,12
+1076,1,Wl Antheil Elementary School,Ewing Township Public School District,4,3,6,3,PK-5 & Ungraded,662,11
+1077,2,Riverfront School,Florence Township School District,4,4,4,3,4-8 & Ungraded,694,13
+1078,3,Franklin Park Elementary School,Franklin Township Public School District,4,5,5,3,PK-5 & Ungraded,664,10
+1079,4,Pine Grove Manor Elementary School,Franklin Township Public School District,4,4,5,4,PK-5 & Ungraded,331,8
+1080,5,Arthur Rann Elementary School,Galloway Township Public School District,4,4,5,3,PK-6 & Ungraded,671,11
+1081,6,Roland Rogers Elementary School,Galloway Township Public School District,4,3,6,3,PK-6 & Ungraded,563,10
+1082,7,Roosevelt School  No 7,Garfield Public School District,4,5,4,3,PK-5 & Ungraded,230,13
+1083,8,Thomas E. Bowe Elementary School,Glassboro Public School District,4,3,5,2,4-6 & Ungraded,455,12
+1084,9,Chews Elementary School,Gloucester Township Public School District,4,4,5,3,PK-5 & Ungraded,661,12
+1085,10,Erial Elementary School,Gloucester Township Public School District,4,5,3,3,PK-5 & Ungraded,642,13
+1086,11,Gloucester Township Elementary School,Gloucester Township Public School District,4,6,4,2,K-5,249,12
+1087,12,No. 28 Duarte-Marti School,Elizabeth Public School District,4,2,5,3,PK-8 & Ungraded,952,15
+1088,13,Fairmount Elementary School,Hackensack City School District,4,4,5,4,PK-4 & Ungraded,629,14
+1089,14,Henry E. Harris No. 1 Elementary School,Bayonne School District,4,4,4,4,PK-8 & Ungraded,708,18
+1090,15,Stoy Elementary School,Haddon Township School District,4,5,4,-1,PK-5 & Ungraded,168,14
+1091,16,Middle School,Hackensack City School District,4,4,4,4,5-8 & Ungraded,1499,12
+1092,17,Strawbridge Elementary School,Haddon Township School District,4,6,3,-1,K-5,196,18
+1093,18,Lincoln No. 5 Elementary School,Bayonne School District,4,4,3,4,PK-8 & Ungraded,434,18
+1094,19,Klockner Elementary School,Hamilton Township Public School District,4,2,7,3,PK-5 & Ungraded,259,10
+1095,20,University Heights/H.D. Morrison Elementary School,Hamilton Township Public School District,4,6,3,2,PK-5 & Ungraded,320,10
+1096,21,Warren E Sooy Jr Elementary School,Hammonton School District,4,5,4,3,"PK, 2-5 & Ungraded",873,14
+1097,22,Roosevelt Elementary School,Hawthorne Board Of Education School District,4,5,4,3,K-5 & Ungraded,523,13
+1098,23,High Bridge Middle School,High Bridge Borough School District,4,6,2,3,5-8 & Ungraded,178,9
+1099,24,High Bridge Elementary School,High Bridge Borough School District,4,7,3,-1,PK-4,194,8
+1100,0,Hurden-Looker Elementary School,Hillside Board Of Education School District,4,3,5,4,3-4 & Ungraded,461,12
+1101,1,Belleville PS3,Belleville Public School District,4,3,5,4,PK-6 & Ungraded,390,19
+1102,2,Aldrich Elementary School,Howell Township Public School District,4,6,3,4,5-Mar,385,14
+1103,3,Thurgood G. Marshall Elementary School,Irvington Board Of Education School District,4,2,6,4,PK-5 & Ungraded,432,11
+1104,4,WOOD-RIDGE INTERMEDIATE SCHOOL,Wood-Ridge Board Of Education School District,4,7,2,5,6-Apr,249,12
+1105,5,Jerome Dunn Academy No 9,Elizabeth Public School District,4,2,7,3,K-8 & Ungraded,863,14
+1106,6,George L Catrambone,Long Branch Public School District,4,2,7,3,K-5 & Ungraded,876,11
+1107,7,Lambertville Public School,South Hunterdon Regional School District,4,4,4,2,PK-6 & Ungraded,225,6
+1108,8,Mastery Schools Of Camden Inc.,Mastery Schools Of Camden Inc.,4,2,8,3,K-11,2319,14
+1109,9,Young Mens Academy,Paterson Public School District,4,1,6,4,8-Mar,55,14
+1110,10,Frank R. Conwell No. 3 Elementary School,Jersey City Public School District,4,5,5,3,PK-5 & Ungraded,643,11
+1111,11,Charles E. Trefurt School,Jersey City Public School District,4,5,5,3,PK-5 & Ungraded,765,10
+1112,12,Kipp: Cooper Norcross A New Jersey Nonprofit Corporation,Kipp: Cooper Norcross A New Jersey Nonprofit Corporation,4,2,6,3,K-8,1362,11
+1113,13,Passaic Gifted And Talented Academy School No 20,Passaic City Public School District,4,5,3,4,2-8 & Ungraded,959,15
+1114,14,Dr Hani Awadallah School,Paterson Public School District,4,2,6,3,K-8 & Ungraded,669,15
+1115,15,Mahatma K. Gandhi School,Jersey City Public School District,4,3,6,3,PK-8 & Ungraded,1434,11
+1116,16,Claremont Elementary School,Franklin Township Public School District,4,4,5,2,PK-5 & Ungraded,665,
+1117,17,Gladys Nunery School,Jersey City Public School District,4,2,6,4,PK-5,354,12
+1118,18,Dr. Paul Rafalides School,Jersey City Public School District,4,6,2,4,PK-4,424,12
+1119,19,Rafael De J. Cordero No. 37 Elementary School,Jersey City Public School District,4,4,5,3,PK-8 & Ungraded,816,12
+1120,20,Bellmawr Park Elementary School,Bellmawr Public School District,4,4,4,3,PK-4 & Ungraded,481,15
+1121,21,Alexander D. Sullivan No. 30 Elementary School,Jersey City Public School District,4,3,6,3,PK-5 & Ungraded,685,10
+1122,22,Dr. Charles P. Defuccio No. 39 Elementary School,Jersey City Public School District,4,2,6,3,PK-8 & Ungraded,387,9
+1123,23,James F. Murray No. 38 Elementary School,Jersey City Public School District,4,4,5,4,PK-8 & Ungraded,801,13
+1124,24,Joseph H. Brensinger No. 17 Elementary School,Jersey City Public School District,4,3,5,3,PK-8 & Ungraded,1278,13
+1125,0,Roosevelt Elementary School,Kearny School District,4,5,5,3,PK-6 & Ungraded,407,12
+1126,1,Washington Elementary School,Kearny School District,4,4,4,4,PK-6 & Ungraded,541,11
+1127,2,Forked River Elementary School,Lacey Township School District,4,4,5,4,K-4 & Ungraded,391,11
+1128,3,Clifton Ave Grade School,Lakewood Township School District,4,2,7,3,2-5 & Ungraded,606,11
+1129,4,Oak Street Elementary School,Lakewood Township School District,4,2,5,3,K-5 & Ungraded,794,11
+1130,5,Lawrence Intermediate School,Lawrence Township Public School District,4,5,4,2,4-6 & Ungraded,861,10
+1131,6,Lawrenceville Elementary School,Lawrence Township Public School District,4,7,-1,1,PK-3 & Ungraded,321,9
+1132,7,Gregory Elementary School,Long Branch Public School District,3,3,3,2,K-5 & Ungraded,552,10
+1133,8,Central Park Elementary School,Pennsville Public School District,3,4,-1,2,2-3 & Ungraded,259,10
+1134,9,Maud Abrams School,Lower Township Elementary School District,3,4,4,2,3-4 & Ungraded,421,12
+1135,10,Ridgeway Elementary School,Manchester Township School District,3,5,2,3,PK-5 & Ungraded,430,10
+1136,11,Alexander Batcho Intermediate School,Manville Board Of Education School District,3,4,3,3,5-8 & Ungraded,490,14
+1137,12,Maude M. Wilkins Elementary School,Maple Shade School District,3,3,4,3,"PK, 3-4 & Ungraded",406,12
+1138,13,Ralph J Steinhauer Elementary School,Maple Shade School District,3,3,3,3,"PK, 5-6 & Ungraded",369,11
+1139,14,Leonardo Elementary School,Middletown Township Public School District,3,5,3,1,K-5 & Ungraded,274,11
+1140,15,Rieck Avenue Elementary School,Millville Board Of Education School District,3,3,4,2,K-5 & Ungraded,470,12
+1141,16,Sussex Avenue Elementary School,Morris School District,3,6,3,1,5-Mar,301,10
+1142,17,John F. Kennedy Memorial Elementary School,Berlin Township School District,3,4,-1,2,PK-3 & Ungraded,292,9
+1143,18,Raymond W. Kershaw Elementary School,Mt. Ephraim School District,3,5,1,4,5-8 & Ungraded,162,10
+1144,19,Larchmont School,Mount Laurel Township School District,3,4,3,2,PK-4 & Ungraded,395,11
+1145,20,National Park Elementary School,National Park Boro School District,3,4,3,2,PK-6 & Ungraded,270,10
+1146,21,Paul Robeson Community Elementary School,New Brunswick Public School District,3,3,3,3,PK-8 & Ungraded,665,14
+1147,22,B.R.I.C.K. Avon Academy,The Newark Public School District,3,2,4,3,PK-8 & Ungraded,466,12
+1148,23,Chancellor Avenue Elementary School,The Newark Public School District,3,1,4,3,PK-8 & Ungraded,462,14
+1149,24,Franklin Elementary School,The Newark Public School District,3,2,4,3,PK-4 & Ungraded,481,11
+1150,0,Dr. William H. Horton Elementary School,The Newark Public School District,3,1,4,2,PK-8 & Ungraded,731,14
+1151,1,Hawthorne Avenue Elementary School,The Newark Public School District,3,2,3,3,PK-8 & Ungraded,457,14
+1152,2,McKinley Elementary School,The Newark Public School District,3,2,4,3,PK-8 & Ungraded,852,13
+1153,3,Franklin No. 3 Elementary School,North Bergen School District,3,3,4,2,1-8 & Ungraded,612,14
+1154,4,John F. Kennedy No. 7 Elementary School,North Bergen School District,3,4,3,3,1-8 & Ungraded,529,11
+1155,5,Lincoln No. 5 Elementary School,North Bergen School District,3,3,4,3,PK-8 & Ungraded,1355,14
+1156,6,East End Elementary School,North Plainfield Boro School District,3,3,3,3,PK-4 & Ungraded,423,11
+1157,7,Somerset School,North Plainfield Boro School District,3,3,3,3,5-6 & Ungraded,516,10
+1158,8,Stony Brook Elementary School,North Plainfield Boro School District,3,2,4,3,PK-4 & Ungraded,253,12
+1159,9,Margaret Mace Elementary School,North Wildwood School District,3,5,2,2,PK-8,221,5
+1160,10,Frederic A  Priff Elementary School,Ocean Township School District,3,4,3,2,4-6 & Ungraded,198,8
+1161,11,Ogdensburg Elementary School,Ogdensburg Borough School District,3,4,4,1,PK-8,235,7
+1162,12,Cleveland Street Elementary School,Orange Board Of Education School District,3,3,3,3,PK-7 & Ungraded,298,11
+1163,13,Oakwood Avenue Elementary School,Orange Board Of Education School District,3,2,3,3,PK-7 & Ungraded,231,10
+1164,14,Number 3 Mario J Drago,Passaic City Public School District,3,2,4,2,PK-8 & Ungraded,803,12
+1165,15,"Number 10, Roosevelt Elementary School",Passaic City Public School District,3,1,4,3,PK-8 & Ungraded,905,14
+1166,16,"Number 11, Cruise Memorial Elementary School",Passaic City Public School District,3,1,4,2,K-8 & Ungraded,1253,13
+1167,17,School 2,Paterson Public School District,3,2,4,2,K-8 & Ungraded,533,10
+1168,18,Senator Frank Lautenberg School,Paterson Public School District,3,1,4,2,K-8 & Ungraded,606,12
+1169,19,School 13,Paterson Public School District,3,1,4,2,K-8 & Ungraded,533,13
+1170,20,School 15,Paterson Public School District,3,1,4,2,PK-5 & Ungraded,613,12
+1171,21,School 20,Paterson Public School District,3,1,4,2,K-8 & Ungraded,457,11
+1172,22,Joseph S. Stackhouse Elementary School,Pemberton Township School District,3,2,3,3,3-5 & Ungraded,283,10
+1173,23,Field Street Elementary School,Penns Grove-Carneys Point Regional School District,3,4,-1,3,1-3 & Ungraded,480,12
+1174,24,G.H. Carson Elementary School,Pennsauken Township Board Of Education School District,3,3,-1,3,PK-3 & Ungraded,300,10
+1175,0,Edward J  Patten Elementary School,Perth Amboy Public School District,3,3,3,4,K-4 & Ungraded,914,13
+1176,1,Samuel E Shull Middle School,Perth Amboy Public School District,3,3,2,3,5-8 & Ungraded,1399,13
+1177,2,Green Street Elementary School,Phillipsburg School District,3,3,4,2,3-5 & Ungraded,657,10
+1178,3,Dewitt D. Barlow Elementary School,Plainfield Public School District,3,2,3,3,K-5 & Ungraded,373,14
+1179,4,Clinton Elementary School,Plainfield Public School District,3,1,4,2,PK-5 & Ungraded,380,12
+1180,5,Emerson Elementary School,Plainfield Public School District,3,3,2,3,PK-5 & Ungraded,459,12
+1181,6,Washington Elementary School,Plainfield Public School District,3,1,5,3,PK-5 & Ungraded,576,12
+1182,7,South Main St Elementary School,Pleasantville Public School District,3,2,4,3,PK-5 & Ungraded,491,11
+1183,8,"Number 1, Prospect Park Elementary School",Prospect Park School District,3,2,5,2,PK-8 & Ungraded,884,15
+1184,9,Roosevelt Elementary School,Rahway Public School District,3,3,3,3,PK-6 & Ungraded,611,11
+1185,10,Riverside Elementary School,Riverside Township School District,3,2,5,2,PK-5 & Ungraded,690,13
+1186,11,Emma Havens Young Elementary School,Brick Township Public School District,3,4,4,2,K-5,780,11
+1187,12,Franklin Elementary School,Roxbury Township School District,3,4,3,3,K-4 & Ungraded,332,13
+1188,13,Bingham Elementary School,Runnemede Public School District,3,2,-1,3,K-3 & Ungraded,174,10
+1189,14,Downing Elementary School,Runnemede Public School District,3,5,-1,1,K-3,167,13
+1190,15,Mary E. Volz Elementary School,Runnemede Public School District,3,4,3,3,"PK, 4-8 & Ungraded",469,12
+1191,16,Washington Elementary School,Rutherford Public School District,3,4,-1,3,"PK, 1-3 & Ungraded",326,13
+1192,17,Veterans Mem Elementary School,Brick Township Public School District,3,4,4,1,K-5 & Ungraded,615,11
+1193,18,Indian Mills Elementary School,Shamong Township School District,3,5,2,-1,PK-4 & Ungraded,394,9
+1194,19,South Amboy Elementary School,South Amboy School District,3,4,3,3,PK-5 & Ungraded,572,13
+1195,20,E. Raymond Appleby Elementary School,Spotswood Public School District,3,6,1,3,2-5 & Ungraded,418,14
+1196,21,West Avenue Elementary School,Bridgeton Public School District,3,2,4,3,K-8 & Ungraded,711,12
+1197,22,Pine Beach Elementary School,Toms River Regional School District,3,3,3,2,K-5 & Ungraded,435,13
+1198,23,South Toms River Elementary School,Toms River Regional School District,3,1,4,2,K-5 & Ungraded,320,11
+1199,24,West Dover Elementary School,Toms River Regional School District,3,4,2,3,K-5 & Ungraded,383,13
+1200,0,Beachwood Elementary School,Toms River Regional School District,3,4,3,2,K-5 & Ungraded,480,13
+1201,1,Columbus Elementary School,Trenton Public School District,3,2,4,3,K-5 & Ungraded,371,12
+1202,2,Jefferson Elementary School,Trenton Public School District,3,1,4,2,K-5 & Ungraded,434,12
+1203,3,P. J. Hill Elementary School,Trenton Public School District,3,1,4,2,PK-5 & Ungraded,800,11
+1204,4,Robbins Elementary School,Trenton Public School District,3,1,4,2,K-5 & Ungraded,541,13
+1205,5,Central Five  Jefferson,Twp Of Union Board Of Education School District,3,5,3,3,5 & Ungraded,544,11
+1206,6,Elizabeth F Moore School,Upper Deerfield Township School District,3,2,4,2,4-5 & Ungraded,196,16
+1207,7,Forest Avenue Elementary School,Verona  Public School District,3,6,1,-1,K-4,205,15
+1208,8,Alice Costello Elementary School,Brooklawn Public School District,3,3,4,3,PK-8,315,10
+1209,9,Dane Barse Elementary School,Vineland Public School District,3,3,3,3,K-5 & Ungraded,271,10
+1210,10,John H. Winslow Elementary School,Vineland Public School District,3,4,3,2,K-5 & Ungraded,468,11
+1211,11,Marie Durand Elementary School,Vineland Public School District,3,2,4,2,K-5 & Ungraded,539,11
+1212,12,Solve d'IPPOLITO Elementary School,Vineland Public School District,3,3,4,2,K-5 & Ungraded,566,13
+1213,13,Dr. William Mennies Elementary School,Vineland Public School District,3,4,3,3,K-5 & Ungraded,554,11
+1214,14,Port Colden Elementary School,Washington Township Public School District,3,6,-1,1,1-3 & Ungraded,163,10
+1215,15,Theodore Roosevelt No. 5 Elementary School,Weehawken Board Of Education School District,3,4,4,2,6-Mar,420,15
+1216,16,Upper Greenwood Lake Elementary School,West Milford Township Public School District,3,6,1,4,PK-6 & Ungraded,308,11
+1217,17,Edison Middle School,West Orange Public School District,3,6,2,2,6 & Ungraded,493,10
+1218,18,Beatrice Gilmore Elementary School,Woodland Park Public School District,3,5,2,3,3-4 & Ungraded,217,12
+1219,19,Holly Hills Elementary School,Westampton Township Public School District,3,4,-1,3,PK-3 & Ungraded,448,12
+1220,20,Indiana Avenue Elementary School,Woodbridge Township School District,3,7,1,3,K-5 & Ungraded,514,18
+1221,21,Walnut Street Elementary School,Woodbury City Public School District,3,4,3,2,PK-5,117,11
+1222,22,Emma C. Attales Middle School,Absecon Public School District,3,5,2,2,5-8 & Ungraded,375,14
+1223,23,Sharp Elementary School,Camden City Public School District,3,1,4,2,PK-8 & Ungraded,359,10
+1224,24,H. Ashton Marsh Elementary School,Absecon Public School District,3,4,2,3,PK-4 & Ungraded,484,14
+1225,0,Columbus Elementary School,Carteret Public School District,3,2,4,2,PK-5 & Ungraded,756,13
+1226,1,Joseph A  Citta Elementary School,Toms River Regional School District,3,5,2,2,K-5 & Ungraded,569,13
+1227,2,School #4,Clifton Public School District,3,3,2,3,K-5,163,15
+1228,3,Oak Knoll Elementary School,Monroe Township Public School District,3,5,2,2,K-4 & Ungraded,503,10
+1229,4,School #16,Clifton Public School District,3,7,2,1,K-5 & Ungraded,220,12
+1230,5,Deal Elementary School,Deal Boro School District,3,4,2,2,K-8 & Ungraded,169,6
+1231,6,Shady Lane Elementary School,Deptford Township Public School District,3,3,4,3,2-6 & Ungraded,390,12
+1232,7,BRIGHTON AVENUE SCHOOL,Atlantic City Public School District,3,2,4,2,PK-5 & Ungraded,369,10
+1233,8,Dennis Twp Elementary  Mid School,Dennis Township School District,3,5,1,4,8-Apr,263,6
+1234,9,School #17,Clifton Public School District,3,3,3,4,PK-5 & Ungraded,521,12
+1235,10,Whitney E. Houston Academy Elementary School,East Orange School District,3,3,3,3,PK-8 & Ungraded,369,10
+1236,11,Mildred B. Garvin School,East Orange School District,3,2,3,3,PK-5 & Ungraded,356,14
+1237,12,Gordon Parks Academy Elementary School,East Orange School District,3,2,3,3,PK-5 & Ungraded,285,11
+1238,13,Fairfield Township School,Fairfield Township School District,3,1,5,2,PK-8 & Ungraded,556,9
+1239,14,Pauline J  Petway,Vineland Public School District,3,4,2,4,K-5 & Ungraded,531,12
+1240,15,A E  Burling Elementary School,Pennsauken Township Board Of Education School District,3,3,-1,3,PK-3,108,14
+1241,16,Eastampton Community School,Eastampton Township School District,3,4,4,2,K-8 & Ungraded,586,11
+1242,17,Samuel M Ridgway School,Edgewater Park Township School District,3,4,3,3,5-8 & Ungraded,373,12
+1243,18,Texas Avenue Elementary School,Atlantic City Public School District,3,2,4,2,K-8,522,11
+1244,19,Benjamin Franklin Elementary School,Edison Township Public School District,3,5,3,2,K-5 & Ungraded,604,12
+1245,20,James Monroe Elementary School,Edison Township Public School District,3,6,2,3,K-5 & Ungraded,519,12
+1246,21,New York Avenue School,Atlantic City Public School District,3,1,4,2,PK-8 & Ungraded,584,11
+1247,22,Clayton J  Davenport Elementary School,Egg Harbor Township School District,3,4,-1,3,PK-3 & Ungraded,753,9
+1248,23,H  Russell Swift Elementary School,Egg Harbor Township School District,3,5,-1,2,PK-3 & Ungraded,438,10
+1249,24,Pennsylvania Ave School,Atlantic City Public School District,3,1,4,2,PK-8 & Ungraded,583,10
+1250,0,"Number 6, Marquis Delafayette Elementary School",Elizabeth Public School District,3,2,4,2,PK-8 & Ungraded,1085,13
+1251,1,"Number 15, Christopher Columbus Elementary School",Elizabeth Public School District,3,2,4,3,K-8,665,14
+1252,2,"Number 23, N.M. Butler Elementary School",Elizabeth Public School District,3,2,5,2,PK-8 & Ungraded,848,12
+1253,3,Lincoln Elementary School,Fairview Public School District,3,3,3,3,4-8 & Ungraded,700,14
+1254,4,Lewis F  Cole Middle School,Fort Lee Public School District,3,6,1,3,5-8 & Ungraded,585,14
+1255,5,Main Road School,Franklin Township Board Of Education School District,3,3,4,2,3-4 & Ungraded,394,11
+1256,6,Conerly Road Elementary School,Franklin Township Public School District,3,4,2,2,PK-5 & Ungraded,400,10
+1257,7,Blackwood Elementary School,Gloucester Township Public School District,3,5,2,4,PK-5 & Ungraded,575,12
+1258,8,Mount Vernon Avenue School,Irvington Board Of Education School District,3,2,3,3,PK-5 & Ungraded,582,14
+1259,9,Ivy Hill Elementary School,The Newark Public School District,3,3,3,3,PK-8 & Ungraded,548,13
+1260,10,Jackson Avenue Elementary School,Hackensack City School District,3,3,3,4,PK-4 & Ungraded,464,15
+1261,11,Haledon Public School,Haledon Public School District,3,4,3,3,PK-8 & Ungraded,1048,10
+1262,12,Alexander Elementary School,Hamilton Township Public School District,3,6,2,2,PK-5 & Ungraded,330,10
+1263,13,Greenwood Elementary School,Hamilton Township Public School District,3,4,1,4,PK-5,239,9
+1264,14,George Washington Elementary School,Hillside Board Of Education School District,3,3,3,3,5-6 & Ungraded,488,12
+1265,15,Wallace No. 6 Elementary School,Hoboken Public School District,3,5,2,1,PK-6 & Ungraded,724,9
+1266,16,Durban Avenue Elementary School,Hopatcong Borough School District,3,3,4,3,4-5 & Ungraded,255,10
+1267,17,Tulsa Trail Elementary School,Hopatcong Borough School District,3,3,-1,3,2-3 & Ungraded,235,12
+1268,18,Hopewell Crest Elementary School,Hopewell Township School District,3,3,3,2,PK-8 & Ungraded,500,12
+1269,19,Grove Street Elementary School,Irvington Board Of Education School District,3,2,4,3,PK-5 & Ungraded,430,13
+1270,20,Madison Avenue Elementary School,Irvington Board Of Education School District,3,2,4,3,PK-5,304,13
+1271,21,Florence Avenue Elementary School,Irvington Board Of Education School District,3,2,4,3,K-5,637,17
+1272,22,Belleville PS8,Belleville Public School District,3,3,3,3,K-6 & Ungraded,502,18
+1273,23,Memorial Campus,Lyndhurst School District,3,4,-1,3,3 & Ungraded,202,10
+1274,24,Ollie Culbreth Jr. School,Jersey City Public School District,3,1,6,2,PK-8 & Ungraded,452,9
+1275,0,Lincoln Annex,New Brunswick Public School District,3,2,4,2,3-8 & Ungraded,746,13
+1276,1,Whitney M Young,Jersey City Public School District,3,1,4,2,PK-8 & Ungraded,679,7
+1277,2,Gloucester City Middle School,Gloucester City Public School District,3,4,3,3,4-8 & Ungraded,780,13
+1278,3,Center For The Arts,Jersey City Public School District,3,1,5,2,PK-8 & Ungraded,440,10
+1279,4,Ethel M. Burke Elementary School,Bellmawr Public School District,3,4,2,3,K-4 & Ungraded,259,13
+1280,5,Mill Pond Elementary School,Lacey Township School District,3,5,1,3,"PK, 5-6 & Ungraded",766,12
+1281,6,Lakehurst Elementary School,Lakehurst Elementary School District,3,2,5,2,PK-8 & Ungraded,366,9
+1282,7,Lawnside Public Elementary School,Lawnside School District,3,3,3,3,PK-8,311,11
+1283,8,Benjamin Franklin Elementary School,Lawrence Township Public School District,3,5,-1,1,PK-3 & Ungraded,399,9
+1284,9,"Number 1, Elementary School",Linden Public School District,3,3,4,3,PK-5 & Ungraded,431,12
+1285,10,"Number 2, Elementary School",Linden Public School District,3,3,4,3,PK-5 & Ungraded,638,10
+1286,11,"Number 4, Elementary School",Linden Public School District,3,3,4,3,PK-5,435,16
+1287,12,Roosevelt School,Manville Board Of Education School District,2,4,1,2,3-4 & Ungraded,230,13
+1288,13,Cliffwood Ave School,Matawan-Aberdeen Regional School District,2,3,-1,1,K-3 & Ungraded,320,9
+1289,14,Mount Pleasant Elementary School,Millville Board Of Education School District,2,2,3,2,K-5,242,14
+1290,15,Green Grove Elementary School,Neptune Township School District,2,2,1,2,PK-5 & Ungraded,350,10
+1291,16,Midtown Community Elementary School,Neptune Township School District,2,1,3,2,K-5 & Ungraded,379,8
+1292,17,A. Chester Redshaw Elementary School,New Brunswick Public School District,2,2,3,2,PK-5 & Ungraded,1012,12
+1293,18,Livingston Elementary School,New Brunswick Public School District,2,2,1,2,K-5 & Ungraded,434,12
+1294,19,McKinley Community Elementary School,New Brunswick Public School District,2,2,1,2,PK-8 & Ungraded,761,9
+1295,20,Rafael Hernandez Elementary School,The Newark Public School District,2,1,3,2,PK-8 & Ungraded,762,16
+1296,21,Belmont-Runyon Elementary School,The Newark Public School District,2,1,3,2,PK-8 & Ungraded,489,15
+1297,22,B.R.I.C.K. Peshine Academy,The Newark Public School District,2,2,3,2,PK-8 & Ungraded,735,12
+1298,23,Elliott Street Elementary School,The Newark Public School District,2,2,2,2,PK-6 & Ungraded,746,16
+1299,24,Lincoln Elementary School,The Newark Public School District,2,2,3,2,PK-8 & Ungraded,416,15
+1300,0,Louise A. Spencer Elementary School,The Newark Public School District,2,1,2,2,PK-8 & Ungraded,766,12
+1301,1,Quitman Community School,The Newark Public School District,2,2,2,2,PK-8 & Ungraded,550,12
+1302,2,South Seventeenth Street Elementary School,The Newark Public School District,2,2,1,2,PK-8 & Ungraded,482,14
+1303,3,Speedway Academies,The Newark Public School District,2,2,2,2,PK-8 & Ungraded,685,17
+1304,4,Thirteenth Avenue Elementary School,The Newark Public School District,2,1,2,2,PK-8 & Ungraded,638,11
+1305,5,George Washington Carver Elementary School,The Newark Public School District,2,1,3,2,PK-8 & Ungraded,476,15
+1306,6,Waretown Elementary School,Ocean Township School District,2,3,-1,1,PK-3 & Ungraded,309,10
+1307,7,Oxford Central Elementary School,Oxford Township School District,2,4,1,1,PK-8 & Ungraded,274,7
+1308,8,"Number 1, Thomas Jefferson Elementary School",Passaic City Public School District,2,2,3,2,K-8 & Ungraded,788,14
+1309,9,Number 6 Martin L King,Passaic City Public School District,2,1,2,2,PK-8 & Ungraded,1124,12
+1310,10,"Number 8, Pulaski Elementary School",Passaic City Public School District,2,1,2,3,PK-8 & Ungraded,532,11
+1311,11,Etta Gero No 9 Elementary School,Passaic City Public School District,2,1,3,2,2-8 & Ungraded,690,14
+1312,12,Rev. Dr. Frank Napier Jr. School,Paterson Public School District,2,1,3,2,2-8 & Ungraded,426,11
+1313,13,School 10,Paterson Public School District,2,1,2,2,K-8 & Ungraded,554,14
+1314,14,School 11 (Newcomers),Paterson Public School District,2,1,2,2,8-Apr,205,48
+1315,15,School 12,Paterson Public School District,2,1,3,2,K-8 & Ungraded,517,12
+1316,16,School 26,Paterson Public School District,2,2,2,2,K-8 & Ungraded,518,13
+1317,17,Marcus W. Newcomb Middle School,Pemberton Township School District,2,2,2,2,6 & Ungraded,373,9
+1318,18,Benjamin Franklin Elementary School,Pennsauken Township Board Of Education School District,2,3,-1,2,PK-3 & Ungraded,361,11
+1319,19,Delair Elementary School,Pennsauken Township Board Of Education School District,2,2,-1,2,PK-3 & Ungraded,386,10
+1320,20,Mc Ginnis Middle School,Perth Amboy Public School District,2,3,2,2,5-8 & Ungraded,1508,13
+1321,21,Cedarbrook Elementary School,Plainfield Public School District,2,2,2,2,K-8 & Ungraded,699,13
+1322,22,Frederic W. Cook Elementary School,Plainfield Public School District,2,2,1,2,K-5 & Ungraded,367,9
+1323,23,Washington Avenue Elementary School,Pleasantville Public School District,2,2,3,2,K-5 & Ungraded,425,11
+1324,24,Red Bank Primary School,Red Bank Borough Public School District,2,2,-1,2,PK-3 & Ungraded,644,13
+1325,0,Lincoln Elementary School,Rockaway Borough Public School District,2,4,-1,1,PK-3 & Ungraded,236,10
+1326,1,Dr Charles C  Polk School,Roselle Public School District,2,2,3,2,1-4 & Ungraded,329,13
+1327,2,Leonard V. Moore Middle School,Roselle Public School District,2,2,2,2,5-6 & Ungraded,500,12
+1328,3,Hugh J Boyd Jr  Elementary School,Seaside Heights School District,2,2,2,2,PK-6 & Ungraded,219,11
+1329,4,Dawes Ave Elementary School,Somers Point School District,2,3,-1,2,K-3 & Ungraded,387,9
+1330,5,Broad Street Elementary School,Bridgeton Public School District,2,1,3,2,K-8 & Ungraded,932,10
+1331,6,Cherry Street Elementary School,Bridgeton Public School District,2,1,3,2,K-8 & Ungraded,588,11
+1332,7,Indian Avenue Elementary School,Bridgeton Public School District,2,2,2,2,K-8 & Ungraded,670,12
+1333,8,Kenneth R  Olson Mid School,Tabernacle Township School District,2,4,2,1,8-May,323,11
+1334,9,Franklin Elementary School,Trenton Public School District,2,2,3,2,K-5 & Ungraded,405,14
+1335,10,Grant Elementary School,Trenton Public School District,2,1,3,2,PK-5 & Ungraded,571,10
+1336,11,Mott Elementary School,Trenton Public School District,2,2,2,2,K-5 & Ungraded,426,12
+1337,12,Parker Elementary School,Trenton Public School District,2,1,3,2,K-5 & Ungraded,531,11
+1338,13,Woodrow Wilson Elementary School,Trenton Public School District,2,1,3,2,PK-5 & Ungraded,498,11
+1339,14,Charles F Seabrook School,Upper Deerfield Township School District,2,3,-1,2,PK-3 & Ungraded,383,12
+1340,15,Anthony Rossi Middle School,Vineland Public School District,2,3,2,2,K-5 & Ungraded,643,10
+1341,16,Wilbur Watts Intermediate School,Burlington City  Public School District,2,3,2,2,3-6 & Ungraded,411,9
+1342,17,Number 3 Elementary School,West New York Board Of Education School District,2,2,1,2,K-6 & Ungraded,599,12
+1343,18,Winslow Township School No. 6 Elementary School,Winslow Township School District,2,3,2,2,4-6 & Ungraded,483,9
+1344,19,Winslow Township School No. 1 Elementary School,Winslow Township School District,2,3,-1,2,PK-3 & Ungraded,350,9
+1345,20,West End Memorial Elementary School,Woodbury City Public School District,2,3,2,1,PK-5 & Ungraded,435,13
+1346,21,Woodlynne Elementary School,Woodlynne Boro Public School District,2,3,2,2,PK-8 & Ungraded,380,11
+1347,22,Cooper's Poynt Elementary School,Camden City Public School District,2,1,3,2,PK-8 & Ungraded,425,10
+1348,23,Thomas H. Dudley Family School,Camden City Public School District,2,1,3,1,PK-8 & Ungraded,500,11
+1349,24,Nathan Hale School,Carteret Public School District,2,3,1,2,PK-5,480,10
+1350,0,Haleyville-Mauricetown Elementary School,Commercial Township School District,2,1,3,1,PK-5 & Ungraded,368,8
+1351,1,Thurgood Marshall Primary School,Asbury Park School District,2,1,2,2,PK-5 & Ungraded,369,8
+1352,2,M. Joan Pearson Elementary School,Delanco Township School District,2,3,1,2,K-5 & Ungraded,268,11
+1353,3,Barack Obama Elementary School,Asbury Park School District,2,1,2,2,PK-5 & Ungraded,356,8
+1354,4,Dr  Joy Miller Elementary School,Egg Harbor Township School District,2,4,1,2,4-5 & Ungraded,1110,11
+1355,5,Ashbrook Elementary School,Lumberton Township Board Of Education School District,2,3,-1,2,2-3 & Ungraded,212,10
+1356,6,G Washington Carver Inst,East Orange School District,2,3,1,3,PK-5 & Ungraded,325,9
+1357,7,Urban Leadership Academy,Paterson Public School District,2,1,2,2,K-4 & Ungraded,105,9
+1358,8,Egg Harbor Community School,Egg Harbor City School District,2,1,3,1,4-8 & Ungraded,257,10
+1359,9,Dr Mccloud Elementary School,Englewood Public School District,2,2,1,2,3-5 & Ungraded,580,12
+1360,10,Number Three School,Fairview Public School District,2,2,-1,2,K-3 & Ungraded,538,22
+1361,11,"Number 5, Roebling Elementary School",Florence Township School District,2,3,-1,2,PK-3 & Ungraded,396,11
+1362,12,Columbus School  No  8,Garfield Public School District,2,4,1,2,PK-5 & Ungraded,401,10
+1363,13,Lincoln School  No 6,Garfield Public School District,2,3,2,2,PK-5 & Ungraded,375,10
+1364,14,Gloria M Sabater Elementary School,Vineland Public School District,2,1,3,2,K-5 & Ungraded,849,11
+1365,15,University Elementary School,Irvington Board Of Education School District,2,1,3,2,K-5 & Ungraded,459,15
+1366,16,Colin Powell Elementary School,Union City School District,2,4,1,3,K-5 & Ungraded,833,14
+1367,17,Luis Munoz Marin Ele,The Newark Public School District,2,1,2,2,PK-8 & Ungraded,840,15
+1368,18,Dr. J.P. Cleary Elementary School,Buena Regional School District,2,2,1,2,3-5 & Ungraded,306,9
+1369,19,Kisthardt Elementary School,Hamilton Township Public School District,2,3,1,2,PK-5,234,8
+1370,20,Kuser Elementary School,Hamilton Township Public School District,2,1,2,2,PK-5,388,10
+1371,21,Lalor Elementary School,Hamilton Township Public School District,2,2,2,1,PK-5 & Ungraded,250,9
+1372,22,Robinson Elementary School,Hamilton Township Public School District,2,5,1,2,PK-5 & Ungraded,384,11
+1373,23,Lincoln No. 3 Elementary School,Harrison Public School District,2,3,-1,2,PK-3,620,13
+1374,24,Berkeley Terrace,Irvington Board Of Education School District,2,2,1,2,PK-5 & Ungraded,487,14
+1375,0,Sylvia Rosenauer Elementary School,Jackson Township School District,2,4,2,1,PK-5 & Ungraded,307,9
+1376,1,Lafayette Elementary School,Bound Brook School District,2,2,-1,2,2-3 & Ungraded,264,13
+1377,2,Number 34 Elementary School,Jersey City Public School District,2,2,3,2,PK-8 & Ungraded,453,11
+1378,3,Joseph C Caruso School,Keansburg School District,2,2,1,2,K-5 & Ungraded,668,8
+1379,4,Oxford Street Elementary School,Belvidere School District,2,3,1,1,"PK, 3-8 & Ungraded",169,5
+1380,5,George Mitchell Elementary School,Little Egg Harbor Township School District,2,3,-1,2,K-3 & Ungraded,716,8
+1381,6,Washington Elementary School,Little Ferry Public School District,2,5,1,2,PK-4 & Ungraded,466,2
+1382,7,Silver Run School,Millville Board Of Education School District,1,1,2,1,K-5 & Ungraded,518,12
+1383,8,Bacon Elementary School,Millville Board Of Education School District,1,1,1,1,K-5,296,13
+1384,9,Holly Heights Elementary School,Millville Board Of Education School District,1,1,2,1,K-5 & Ungraded,500,14
+1385,10,Lincoln Elementary School,New Brunswick Public School District,1,2,-1,1,PK-6 & Ungraded,544,13
+1386,11,Cleveland Elementary School,The Newark Public School District,1,1,1,2,PK-8 & Ungraded,426,13
+1387,12,Edward W. Kilpatrick Elementary School,Paterson Public School District,1,1,-1,1,PK-3 & Ungraded,365,11
+1388,13,School 14,Paterson Public School District,1,2,1,1,K-4,221,13
+1389,14,School 21,Paterson Public School District,1,1,2,1,PK-8 & Ungraded,747,13
+1390,15,Martin Luther King Elementary School,Paterson Public School District,1,1,1,1,K-8 & Ungraded,660,10
+1391,16,Paul W. Carleton Elementary School,Penns Grove-Carneys Point Regional School District,1,2,1,1,4-5 & Ungraded,355,15
+1392,17,George,Pennsauken Township Board Of Education School District,1,2,-1,1,PK-3 & Ungraded,249,9
+1393,18,Jefferson Elementary School,Plainfield Public School District,1,1,1,1,PK-5 & Ungraded,419,13
+1394,19,Charles H. Stillman Elementary School,Plainfield Public School District,1,1,1,1,K-5,311,18
+1395,20,Salem Middle School,Salem City Board Of Education School District,1,1,2,1,3-8 & Ungraded,412,10
+1396,21,Buckshutem Road Elementary School,Bridgeton Public School District,1,1,1,1,K-8 & Ungraded,594,12
+1397,22,Quarter Mile Lane Elementary School,Bridgeton Public School District,1,1,2,1,PK-8 & Ungraded,772,11
+1398,23,Gregory Elementary School,Trenton Public School District,1,1,1,1,K-5 & Ungraded,567,14
+1399,24,Harrison Elementary School,Trenton Public School District,1,1,1,1,K-5,221,
+1400,0,Thomas Richards Elementary School,Waterford Township Public School District,1,2,-1,1,"PK, 2-3 & Ungraded",221,12
+1401,1,Glenwood Ave Elementary School,Wildwood City Board Of Education School District,1,1,2,1,PK-5 & Ungraded,470,11
+1402,2,Winslow Township School No. 2 Elementary School,Winslow Township School District,1,2,-1,1,PK-3 & Ungraded,349,11
+1403,3,Veterans Memorial Middle School,Camden City Public School District,1,1,2,1,PK-8 & Ungraded,458,12
+1404,4,Alfred Cramer College Preparatory Lab School,Camden City Public School District,1,1,1,1,PK-6 & Ungraded,454,11
+1405,5,Forest Hill Elementary School,Camden City Public School District,1,1,1,2,K-5 & Ungraded,289,10
+1406,6,H. B. Wilson Elementary School,Camden City Public School District,1,1,1,1,PK-8 & Ungraded,503,13
+1407,7,Yorkship Elementary School,Camden City Public School District,1,1,2,1,PK-8 & Ungraded,466,12
+1408,8,Riletta Cream Elementary School,Camden City Public School District,1,1,2,1,PK-8 & Ungraded,285,11
+1409,9,Lindenwold Middle School,Lindenwold Board Of Education School District,1,1,1,1,5-8 & Ungraded,840,10
+1410,10,Bradley Elementary School,Asbury Park School District,1,1,2,1,PK-5 & Ungraded,418,7
+1411,11,Edward T. Bowser Sr Elementary School,East Orange School District,1,2,1,1,PK-5 & Ungraded,609,11
+1412,12,Charles L  Spragg Elementary School,Egg Harbor City School District,1,1,-1,1,PK-3 & Ungraded,277,9
+1413,13,Uptown School Complex Elementary School,Atlantic City Public School District,1,1,2,1,PK-8 & Ungraded,559,10
+1414,14,Dorothy L Bullock School,Glassboro Public School District,1,2,-1,1,1-3 & Ungraded,430,12
+1415,15,Martin Luther King Jr E.S.,Trenton Public School District,1,1,1,1,K-5 & Ungraded,775,13
+1416,16,Eagle Academy for Young Men of Newark,The Newark Public School District,1,1,1,1,5-12 & Ungraded,239,9
+1417,17,George E. Wilson Elementary School,Hamilton Township Public School District,1,1,1,2,PK-5,437,11
+1418,18,Hampton Elementary School,Hampton Borough Public School District,1,2,1,-1,PK-5 & Ungraded,97,8
+1419,19,Chancellor Avenue Elementary School,Irvington Board Of Education School District,1,1,1,2,K-5 & Ungraded,482,15
+1420,20,Levitt Intermediate School,Willingboro Public School District,1,2,1,1,5-6 & Ungraded,566,
+1421,21,Chaplain Charles Watters School,Jersey City Public School District,1,1,2,1,PK-8 & Ungraded,727,12
+1422,22,Lindenwold Number 4 Elementary School,Lindenwold Board Of Education School District,1,1,2,1,K-4 & Ungraded,630,13
+1423,23,Lindenwold Number 5 Elementary School,Lindenwold Board Of Education School District,1,1,2,1,K-4 & Ungraded,591,11
+1434,9,Betsy Ross Elementary School,Mahwah Township Public School District,,10,-1,-1,K-3,231,11
+1435,10,George Washington Elementary School,Mahwah Township Public School District,,10,-1,-1,K-3 & Ungraded,191,10
+1443,18,Hazelwood Elementary School,Middlesex Borough Public School District,,7,-1,-1,PK-3 & Ungraded,216,11
+1444,19,Watchung Elementary School,Middlesex Borough Public School District,,6,-1,-1,K-3 & Ungraded,242,12
+1450,0,George C. Baker Elementary School,Moorestown Township School District,,10,-1,-1,PK-3 & Ungraded,378,12
+1451,1,South Valley Elementary School,Moorestown Township School District,,10,-1,-1,PK-3 & Ungraded,405,15
+1459,9,Grandview School,North Caldwell Board Of Education School District,,10,-1,-1,PK-3 & Ungraded,391,9
+1477,2,Mary A. Hubbard Elementary School,Ramsey Public School District,,9,-1,-1,PK-3 & Ungraded,379,12
+1479,4,Wesley D. Tisdale Elementary School,Ramsey Public School District,,9,-1,-1,PK-3 & Ungraded,386,12
+1481,6,Three Bridges Elementary School,Readington Township Public School District,,9,-1,-1,PK-3 & Ungraded,318,8
+1482,7,Whitehouse Elementary School,Readington Township Public School District,,9,-1,-1,K-3 & Ungraded,304,8
+1484,9,Peter Cooper Elementary School,Ringwood School District,,10,-1,-1,PK-3 & Ungraded,253,14
+1485,10,Robert Erskine Elementary School,Ringwood School District,,7,-1,-1,K-3 & Ungraded,220,12
+1486,11,Deane-Porter Elementary School,Rumson Borough School District,,10,-1,-1,PK-3,385,10
+1499,24,Hudson,Union City School District,,6,-1,-1,PK-3,367,14
+1516,16,Dutch Neck Elementary School,West Windsor-Plainsboro Regional School District,,9,-1,-1,K-3 & Ungraded,681,12
+1517,17,Maurice Hawk Elementary School,West Windsor-Plainsboro Regional School District,,9,-1,-1,K-3 & Ungraded,709,11
+1518,18,John V B Wicoff Elementary School,West Windsor-Plainsboro Regional School District,,9,-1,-1,K-3 & Ungraded,434,10
+1524,24,Lester D Wilson Elementary School,Alexandria Township School District,,4,-1,-1,PK-3,200,8
+1527,2,Hillside Elementary School,Allendale Board Of Education School District,,10,-1,-1,PK-3,362,13
+1534,9,Mohawk Avenue Elementary School,Sparta Township Public School District,,7,-1,-1,3 & Ungraded,207,12
+1546,21,Milton Avenue Elementary School,The School District Of The Chathams,,10,-1,-1,PK-3 & Ungraded,274,13
+1574,24,Washington Avenue Elementary School,The School District Of The Chathams,,9,-1,-1,PK-3 & Ungraded,349,17
+1578,3,Viola L. Sickles Elementary School,Fair Haven School District,,10,-1,-1,PK-3,401,10
+1581,6,Southern Boulvard School,The School District Of The Chathams,,9,-1,-1,PK-3 & Ungraded,468,15
+1588,13,Oak Tree Elementary School,Monroe Township Board Of Education School District,,9,-1,-1,PK-3 & Ungraded,700,16
+1617,17,Village Elementary School,Holmdel Township School District,,9,-1,-1,PK-3 & Ungraded,759,11

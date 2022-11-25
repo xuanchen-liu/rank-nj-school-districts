@@ -1,0 +1,401 @@
+,common,A+,A,A minus,school_x,10,9,8,school_y
+0,Absecon,0,0,0,1,0,0,0,2
+1,Alexandria Township,0,0,0,1,0,0,0,2
+2,Allamuchy Township,0,0,0,2,0,0,0,1
+3,Allendale,0,1,0,1,2,0,0,2
+4,Alpine Elementary,1,0,0,1,1,0,0,1
+5,Andover Regional,0,0,0,1,0,0,1,2
+6,Asbury Park,0,0,0,4,0,0,0,3
+7,Atlantic City,0,0,0,9,0,0,0,9
+8,Atlantic Highlands,0,0,0,1,0,0,1,1
+9,Avon-By-The-Sea,0,0,1,1,0,0,1,1
+10,Barnegat Township,0,0,0,4,0,0,0,4
+11,Barrington,0,0,0,1,0,0,0,2
+12,Bay Head Borough,0,1,0,1,0,0,1,1
+13,Bayonne,0,0,1,11,0,1,0,11
+14,Beach Haven,0,0,0,1,0,0,0,1
+15,Bedminster Township,0,0,1,1,0,0,1,1
+16,Belleville,0,0,0,7,0,1,1,7
+17,Bellmawr,0,0,0,2,0,0,0,3
+18,Belvidere,0,0,0,2,0,0,0,1
+19,Bergenfield Borough,0,0,4,5,0,1,3,5
+20,Berkeley Heights,1,2,0,4,2,1,0,3
+21,Berkeley Township,0,0,0,4,0,0,0,4
+22,Berlin Township,0,0,0,1,0,0,0,2
+23,Bernards Township,1,3,0,4,1,2,1,4
+24,Bethlehem Township,0,0,0,1,0,0,0,1
+25,Bloomfield,0,0,2,8,0,1,1,8
+26,Bloomingdale,0,0,0,2,0,0,0,2
+27,Bloomsbury,0,0,1,1,0,0,0,1
+28,Bogota,0,0,0,2,0,0,2,2
+29,Boonton Town,0,0,1,2,0,0,0,1
+30,Boonton Township,0,1,0,1,0,1,0,1
+31,Bordentown Regional,0,0,0,3,0,0,0,2
+32,Bound Brook,0,0,0,3,0,0,0,2
+33,Branchburg Township,0,1,1,2,0,0,1,2
+34,Brick Township,0,0,0,7,0,0,0,8
+35,Bridgeton,0,0,0,5,0,0,0,6
+36,Bridgewater-Raritan Regional,0,5,1,7,1,3,3,9
+37,Brielle Boro,0,1,0,1,0,1,0,1
+38,Brooklawn,0,0,0,1,0,0,0,1
+39,Buena Regional,0,0,0,3,0,0,0,1
+40,Burlington City,0,0,0,3,0,0,0,1
+41,Butler,0,0,0,1,0,0,1,2
+42,Byram Township,0,0,0,1,0,0,0,2
+43,Caldwell-West Caldwell,0,0,4,5,0,0,4,4
+44,Califon,0,1,0,1,0,1,0,1
+45,Camden City,0,0,0,12,0,0,0,12
+46,Carlstadt,0,0,0,1,0,0,0,1
+47,Carteret,0,0,0,3,0,0,0,3
+48,Cedar Grove Township,0,1,1,2,0,1,2,3
+49,Cherry Hill Township,0,3,4,13,2,1,1,12
+50,Chester,0,0,1,2,0,0,1,1
+51,Chesterfield Township,0,0,1,1,0,0,0,1
+52,Cinnaminson Township,0,0,0,2,0,0,0,1
+53,Clark Township,0,0,1,2,0,0,1,2
+54,Clayton,0,0,0,1,0,0,0,1
+55,Cliffside Park,0,0,0,3,0,0,0,4
+56,Clifton,0,0,0,14,0,0,1,14
+57,Clinton Township,0,0,1,4,0,0,0,1
+58,Closter,0,1,0,1,2,0,0,2
+59,Collingswood,0,1,1,5,1,1,0,5
+60,Colts Neck Township,0,0,1,2,0,0,1,1
+61,Cranbury Township,0,1,0,1,0,1,0,1
+62,Cranford,0,3,1,6,1,1,1,4
+63,Cresskill,0,2,0,2,0,2,0,2
+64,Delanco Township,0,0,0,1,0,0,0,1
+65,Delran Township,0,0,0,2,0,0,0,1
+66,Demarest,0,1,0,2,1,1,0,2
+67,Dennis Township,0,0,0,2,0,0,1,2
+68,Denville Township,0,2,0,2,1,1,0,2
+69,Deptford Township,0,0,0,6,0,0,0,4
+70,Dover,0,0,0,3,0,0,0,3
+71,Dumont,0,1,3,4,0,1,1,4
+72,Dunellen,0,0,0,1,0,0,0,1
+73,East Amwell Township,0,1,0,1,0,1,0,1
+74,East Brunswick,1,4,1,8,0,4,2,8
+75,East Greenwich Township,0,0,1,2,0,0,1,1
+76,East Hanover Township,0,0,1,2,0,0,1,1
+77,East Orange,0,0,0,15,0,0,0,12
+78,East Rutherford,0,0,0,1,0,0,0,2
+79,East Windsor Regional,0,0,0,4,0,0,0,2
+80,Eatontown,0,0,0,2,0,0,1,2
+81,Edgewater,0,0,0,2,0,0,0,1
+82,Edgewater Park Township,0,0,0,1,0,0,0,2
+83,Edison Township,0,6,2,13,2,2,2,10
+84,Egg Harbor City,0,0,0,1,0,0,0,2
+85,Egg Harbor Township,0,0,0,5,0,0,0,4
+86,Elizabeth,0,0,2,26,2,0,0,26
+87,Elmwood Park,0,0,0,3,0,0,0,3
+88,Emerson,0,0,0,2,0,0,0,1
+89,Englewood,0,0,0,4,0,0,0,1
+90,Englewood Cliffs,0,1,0,2,1,0,0,1
+91,Essex Fells,1,0,0,1,1,0,0,1
+92,Evesham Township,0,0,0,6,0,0,0,6
+93,Ewing Township,0,0,0,3,0,0,0,3
+94,Fair Haven,0,1,0,1,2,0,0,2
+95,Fair Lawn,1,4,0,6,4,0,1,6
+96,Fairfield,0,0,2,2,0,2,0,2
+97,Fairview,0,0,0,2,0,0,0,2
+98,Farmingdale,0,1,0,1,0,0,1,1
+99,Flemington-Raritan Regional,0,0,3,4,0,0,3,5
+100,Florham Park,0,1,0,2,0,1,0,1
+101,Fort Lee,0,4,0,4,1,0,3,5
+102,Frankford Township,0,0,1,1,0,0,0,1
+103,Franklin Lakes,0,1,2,3,1,1,1,3
+104,Franklin Township,0,0,0,8,0,0,0,11
+105,Freehold Borough,0,0,0,2,0,0,0,1
+106,Freehold Township,0,0,0,5,0,0,2,5
+107,Frenchtown,0,0,0,2,0,0,1,1
+108,Galloway Township,0,0,0,4,0,0,0,4
+109,Garfield,0,0,1,8,0,0,2,7
+110,Glassboro,0,0,0,4,0,0,0,2
+111,Glen Ridge,0,1,0,4,0,1,0,1
+112,Glen Rock,1,3,0,4,3,1,0,4
+113,Gloucester City,0,0,0,1,0,0,0,2
+114,Gloucester Township,0,0,0,8,0,0,0,8
+115,Green Brook Township,0,1,0,1,0,0,2,2
+116,Green Township,0,1,0,1,0,0,1,1
+117,Greenwich Township,0,0,1,2,0,0,0,3
+118,Guttenberg,0,0,0,1,0,0,0,1
+119,Hackettstown,0,0,0,2,0,0,1,3
+120,Haddon Heights,0,0,3,3,0,1,2,3
+121,Haddon Township,0,0,0,5,0,0,0,5
+122,Haddonfield,0,3,0,3,0,2,1,3
+123,Hainesport Township,0,0,0,1,0,0,0,1
+124,Haledon,0,0,0,1,0,0,0,1
+125,Hamburg,0,0,0,1,0,0,0,1
+126,Hamilton Township,0,0,0,2,0,0,0,18
+127,Hammonton,0,0,0,2,0,0,0,1
+128,Hanover Township,0,0,2,3,0,0,2,3
+129,Harding Township,0,1,0,1,1,0,0,1
+130,Hardyston Township,0,0,0,1,0,0,0,2
+131,Harrington Park,1,0,0,1,1,0,0,1
+132,Harrison,0,0,0,1,0,0,0,2
+133,Harrison Township,0,0,0,2,0,0,2,2
+134,Hasbrouck Heights,0,1,1,2,0,1,1,2
+135,Haworth,0,1,0,1,0,1,0,1
+136,Hawthorne,0,0,0,3,0,0,0,3
+137,Hazlet Township,0,0,0,4,0,0,1,5
+138,Highland Park,0,0,0,2,0,0,0,1
+139,Hillsborough Township,0,5,1,6,0,5,1,7
+140,Hillsdale,0,1,1,2,0,2,1,3
+141,Ho-Ho-Kus,1,0,0,1,1,0,0,1
+142,Hoboken,0,2,0,6,0,1,0,3
+143,Holmdel Township,0,2,0,2,0,2,0,2
+144,Hopatcong Borough,0,0,0,2,0,0,0,2
+145,Hope Township,0,0,0,1,0,0,0,1
+146,Hopewell Valley Regional,1,3,0,4,1,3,0,4
+147,Howell Township,0,0,1,10,0,0,2,5
+148,Irvington,0,0,0,1,0,0,0,8
+149,Island Heights,0,1,0,1,0,1,0,1
+150,Jackson Township,0,0,0,6,0,0,1,6
+151,Jamesburg,0,0,0,1,0,0,0,1
+152,Jefferson Township,0,0,0,5,0,0,0,2
+153,Jersey City,0,2,1,35,1,0,1,26
+154,Keansburg,0,0,0,1,0,0,0,1
+155,Kearny,0,0,0,6,0,0,0,5
+156,Kenilworth,0,0,0,1,0,0,0,1
+157,Keyport,0,0,0,1,0,0,0,1
+158,Kinnelon,0,1,0,2,0,1,0,1
+159,Knowlton Township,0,0,0,1,0,0,0,1
+160,Lacey Township,0,0,0,3,0,0,0,4
+161,Lafayette Township,0,0,1,1,0,0,0,1
+162,Laurel Springs,0,0,1,1,0,0,0,1
+163,Lavallette Borough,0,1,0,1,0,0,1,1
+164,Lawnside,0,0,0,1,0,0,0,1
+165,Lawrence Township,0,0,0,4,0,0,0,6
+166,Lebanon Borough,0,0,0,1,0,0,0,1
+167,Lebanon Township,0,0,0,1,0,0,0,2
+168,Leonia,0,1,0,1,0,0,1,1
+169,Lincoln Park,0,0,0,1,0,1,1,2
+170,Linden,0,0,0,8,0,0,0,8
+171,Lindenwold,0,0,0,2,0,0,0,3
+172,Linwood City,0,0,1,1,0,2,0,2
+173,Little Egg Harbor Township,0,0,0,2,0,0,0,2
+174,Little Falls Township,0,1,0,2,1,1,0,2
+175,Little Ferry,0,0,0,1,0,0,0,2
+176,Little Silver Boro,0,1,0,1,1,1,0,2
+177,Livingston,4,2,0,6,4,3,0,7
+178,Lodi,0,0,0,5,0,0,2,5
+179,Logan Township,0,0,1,2,0,0,1,1
+180,Long Beach Island Consolidated,0,0,0,2,0,0,0,1
+181,Long Branch,0,0,0,6,0,0,0,3
+182,Long Hill Township,0,0,1,2,0,0,1,1
+183,Lopatcong Township,0,0,0,1,0,0,0,2
+184,Lower Township Elementary,0,0,0,3,0,0,0,2
+185,Lyndhurst,0,0,0,5,0,0,1,4
+186,Madison,0,1,2,3,0,1,2,3
+187,Magnolia,0,0,0,1,0,0,0,1
+188,Mahwah Township,0,4,0,4,2,1,1,4
+189,Manalapan-Englishtown Regional,0,0,3,4,1,4,1,6
+190,Manasquan,0,0,1,1,0,0,1,1
+191,Manchester Township,0,0,0,4,0,0,0,3
+192,Mansfield Township,0,0,1,1,0,0,1,1
+193,Mantua Township,0,0,2,3,0,0,1,2
+194,Maple Shade,0,0,0,3,0,0,0,2
+195,Margate City,0,1,0,1,1,1,0,2
+196,Marlboro Township,0,3,2,6,1,2,2,5
+197,Matawan-Aberdeen Regional,0,0,2,4,0,1,0,4
+198,Maywood,0,1,0,2,1,1,0,2
+199,Medford Lakes,0,0,0,2,0,0,0,1
+200,Medford Township,0,0,3,5,0,2,4,6
+201,Mendham Borough,0,1,0,1,1,1,0,2
+202,Mendham Township,0,1,0,1,2,0,0,2
+203,Merchantville,0,0,0,1,0,0,0,1
+204,Metuchen,0,0,1,2,0,1,0,2
+205,Middle Township,0,0,0,2,0,0,0,1
+206,Middlesex Borough,0,0,0,3,0,0,0,4
+207,Middletown Township,0,0,6,11,0,2,4,12
+208,Midland Park,0,0,1,2,0,0,1,1
+209,Millburn Township,6,0,0,6,6,0,0,6
+210,Millstone Township,0,0,0,2,0,0,0,1
+211,Millville,0,0,0,6,0,0,0,5
+212,Mine Hill Township,0,0,1,1,0,0,0,1
+213,Monmouth Beach Elementary,0,1,0,1,1,0,0,1
+214,Monroe Township,0,1,3,8,1,1,1,10
+215,Montclair,0,1,5,7,0,0,1,6
+216,Montgomery Township,0,1,0,2,1,0,1,2
+217,Montvale,0,1,0,1,0,2,0,2
+218,Montville Township,0,5,0,5,2,2,1,5
+219,Moonachie,0,0,1,2,0,0,0,1
+220,Moorestown Township,2,2,0,4,2,0,2,4
+221,Morris,0,0,2,7,0,0,0,4
+222,Morris Plains,0,1,0,2,0,1,0,1
+223,Mount Arlington,0,0,0,2,0,0,1,1
+224,Mount Holly Township,0,0,0,2,0,0,0,1
+225,Mount Laurel Township,0,0,0,6,0,0,0,7
+226,Mount Olive Township,0,2,2,4,0,0,2,4
+227,Mountain Lakes,1,0,0,2,1,0,0,1
+228,Mountainside,0,0,1,2,0,1,0,1
+229,Mullica Township,0,0,0,1,0,0,0,2
+230,Neptune City,0,0,0,1,0,0,0,1
+231,Neptune Township,0,0,0,5,0,0,0,5
+232,New Brunswick,0,0,0,9,0,0,0,9
+233,New Milford,0,0,2,2,0,1,1,2
+234,New Providence,0,2,0,3,2,0,0,2
+235,Newton,0,0,1,3,0,0,0,2
+236,North Arlington,0,0,0,3,0,0,1,3
+237,North Bergen,0,0,0,6,0,0,0,6
+238,North Brunswick Township,0,0,0,5,0,0,0,4
+239,North Caldwell,0,2,0,2,2,0,0,2
+240,North Haledon,0,0,0,1,0,0,0,2
+241,North Hanover Township,0,0,0,2,0,0,0,2
+242,North Wildwood,0,0,0,1,0,0,0,1
+243,Northfield City,0,0,0,1,0,0,0,2
+244,Northvale,0,1,0,1,0,1,0,1
+245,Norwood,0,1,0,1,0,0,1,1
+246,Nutley,0,0,4,5,0,1,1,5
+247,Oakland,0,0,2,3,0,0,2,3
+248,Oaklyn,0,0,0,1,0,0,0,1
+249,Ocean City,0,0,1,1,0,0,0,2
+250,Ocean Gate,0,0,0,1,0,0,0,1
+251,Oceanport,0,1,0,1,0,2,0,2
+252,Old Bridge Township,0,2,7,11,2,0,1,12
+253,Old Tappan,0,1,0,1,0,2,0,2
+254,Oldmans Township,0,0,1,1,0,0,0,1
+255,Oradell,0,1,0,1,1,0,0,1
+256,Orange,0,0,0,8,0,0,0,7
+257,Palisades Park,0,0,0,2,0,0,0,1
+258,Palmyra,0,0,0,1,0,0,0,1
+259,Paramus,0,1,4,12,0,1,5,7
+260,Park Ridge,0,2,0,2,0,2,0,2
+261,Parsippany-Troy Hills Township,0,6,4,10,1,2,5,10
+262,Passaic City,0,0,0,13,0,0,0,10
+263,Paterson,0,0,0,38,1,0,0,34
+264,Paulsboro,0,0,0,2,0,0,0,1
+265,Pemberton Township,0,0,0,4,0,0,0,5
+266,Penns Grove-Carneys Point Regional,0,0,0,3,0,0,0,2
+267,Pennsauken Township,0,0,0,5,0,0,0,6
+268,Pennsville,0,0,0,3,0,0,0,2
+269,Pequannock Township,0,0,3,3,1,1,1,3
+270,Perth Amboy,0,0,0,7,0,0,0,8
+271,Phillipsburg,0,0,0,5,0,0,0,1
+272,Pine Hill,0,0,0,2,0,0,0,2
+273,Piscataway Township,0,0,3,6,0,0,2,6
+274,Pitman Boro,0,0,0,3,0,0,1,3
+275,Pittsgrove Township,0,0,0,2,0,0,0,2
+276,Plainfield,0,0,0,13,0,0,0,9
+277,Pleasantville,0,0,0,4,0,0,0,4
+278,Plumsted Township,0,0,0,1,0,0,1,1
+279,Point Pleasant Beach,0,0,1,1,0,0,0,1
+280,Point Pleasant Borough,0,0,0,2,0,0,0,2
+281,Pompton Lakes Boro,0,0,1,2,0,0,0,2
+282,Port Republic,0,0,1,1,0,1,0,1
+283,Princeton,2,2,0,4,0,1,2,4
+284,Prospect Park,0,0,0,1,0,0,0,1
+285,Rahway,0,0,0,4,0,0,0,4
+286,Ramsey,0,3,0,3,0,3,0,3
+287,Randolph Township,0,1,3,4,0,1,0,4
+288,Readington Township,0,1,2,3,0,2,1,3
+289,Red Bank Borough,0,0,0,1,0,0,0,2
+290,Ridgewood,5,1,0,6,4,2,0,6
+291,Ringwood,0,1,0,3,1,0,0,3
+292,River Edge,0,2,0,2,1,1,0,2
+293,River Vale,0,1,1,2,0,0,2,2
+294,Riverdale,0,0,0,1,0,0,0,1
+295,Riverside Township,0,0,0,1,0,0,0,1
+296,Riverton,0,0,1,1,0,0,1,1
+297,Robbinsville,0,1,0,1,0,0,2,2
+298,Rochelle Park,0,0,0,1,0,0,0,1
+299,Rockaway Borough,0,0,0,1,0,0,0,2
+300,Rockaway Township,0,0,1,5,0,0,1,5
+301,Roosevelt,1,0,0,1,0,1,0,1
+302,Roseland,0,1,0,1,0,1,0,1
+303,Roselle,0,0,0,4,0,0,0,4
+304,Roselle Park,0,0,0,1,0,0,0,3
+305,Roxbury Township,0,0,1,4,0,0,1,5
+306,Rumson Borough,0,1,0,1,2,0,0,2
+307,Runnemede,0,0,0,2,0,0,0,3
+308,Rutherford,0,1,1,3,0,0,1,3
+309,Saddle Brook,0,0,0,3,0,0,0,3
+310,Saddle River,1,0,0,1,1,0,0,1
+311,Salem City,0,0,0,2,0,0,0,1
+312,Sandyston-Walpack Consolidated,0,0,1,1,0,0,1,1
+313,Sayreville,0,0,1,5,0,0,1,5
+314,Scotch Plains-Fanwood,0,4,1,5,0,3,3,7
+315,Sea Girt Borough,1,0,0,1,1,0,0,1
+316,Secaucus,0,0,0,2,0,0,0,2
+317,Shamong Township,0,0,0,1,0,0,0,2
+318,Shrewsbury Borough,0,1,0,1,0,1,0,1
+319,Somerdale,0,0,0,1,0,0,0,1
+320,Somers Point,0,0,0,1,0,0,0,2
+321,Somerset Hills Regional,0,0,1,1,0,0,0,2
+322,South Amboy,0,0,0,1,0,0,0,1
+323,South Bound Brook,0,0,0,1,0,0,0,1
+324,South Brunswick,1,5,1,7,1,2,3,7
+325,South Hackensack,0,0,1,1,0,0,0,1
+326,South Hunterdon Regional,0,0,0,2,0,0,0,2
+327,South Orange-Maplewood,0,0,4,6,0,0,3,5
+328,South Plainfield,0,0,2,4,0,1,1,5
+329,South River,0,0,0,2,0,0,0,1
+330,Southampton Township,0,0,0,2,0,0,0,1
+331,Sparta Township,0,1,1,3,0,1,0,2
+332,Spotswood,0,0,0,2,0,0,0,1
+333,Spring Lake Borough,0,1,0,1,0,1,0,1
+334,Spring Lake Heights,0,1,0,1,0,0,1,1
+335,Springfield,0,1,1,3,0,0,2,2
+336,Springfield Township,0,0,1,1,0,0,1,1
+337,Stafford Township,0,0,0,3,0,0,0,2
+338,Stanhope,0,0,0,1,0,0,0,1
+339,Stillwater Township,0,0,1,1,0,0,1,1
+340,Stone Harbor Elementary,0,0,1,1,1,0,0,1
+341,Stratford,0,0,0,1,0,0,0,2
+342,Summit,3,2,0,7,3,2,0,5
+343,Sussex-Wantage Regional,0,0,0,2,0,0,0,1
+344,Swedesboro-Woolwich,0,0,0,3,0,0,0,2
+345,Teaneck,0,1,0,5,0,0,0,5
+346,Tenafly,3,1,0,4,1,3,0,4
+347,Tewksbury Township,0,0,1,1,0,1,0,1
+348,The School District Of The Chathams,0,4,0,4,2,2,0,4
+349,Tinton Falls,0,0,0,3,0,0,0,1
+350,Toms River Regional,0,0,0,12,0,0,0,12
+351,Totowa,0,0,0,3,0,0,0,1
+352,Township Of Ocean,0,0,1,3,0,1,0,4
+353,Trenton,0,0,0,18,0,0,0,13
+354,Twp Of Union,0,0,1,7,0,0,2,7
+355,Union Beach,0,0,0,1,0,0,0,1
+356,Union City,0,0,1,10,1,0,0,9
+357,Union Township,0,0,0,1,0,0,2,2
+358,Upper Deerfield Township,0,0,0,2,0,0,0,2
+359,Upper Freehold Regional,0,0,1,1,0,0,0,2
+360,Upper Pittsgrove Twp,0,0,0,1,0,0,1,1
+361,Upper Saddle River,1,0,0,2,1,0,0,1
+362,Upper Township,0,0,1,2,0,1,0,1
+363,Ventnor City,0,0,0,1,0,0,0,2
+364,Vernon Township,0,0,0,3,0,0,0,2
+365,Verona,0,2,0,4,0,1,1,5
+366,Vineland,0,0,0,10,1,0,0,9
+367,Voorhees Township,0,2,2,4,1,0,3,4
+368,Waldwick,0,0,2,2,0,0,2,2
+369,Wall Township,0,0,3,4,0,0,3,4
+370,Wanaque,0,0,1,2,0,0,1,2
+371,Warren Township,0,4,0,4,0,4,0,4
+372,Washington Borough,0,0,0,2,0,0,0,1
+373,Washington Township,0,0,1,11,0,0,2,11
+374,Watchung Borough,0,1,0,1,0,2,0,2
+375,Waterford Township,0,0,0,3,0,0,0,2
+376,Wayne Township,0,1,2,9,1,0,1,9
+377,Weehawken,0,0,0,2,0,0,0,1
+378,Wenonah Boro,0,0,0,1,0,0,0,1
+379,West Cape May Elementary,0,0,0,1,0,0,0,1
+380,West Deptford Township,0,0,0,3,0,0,0,2
+381,West Long Branch,0,0,0,1,0,0,2,2
+382,West Milford Township,0,0,0,6,0,0,0,6
+383,West Orange,0,1,3,7,0,2,2,8
+384,West Windsor-Plainsboro Regional,2,4,0,6,0,4,1,5
+385,Westampton Township,0,0,0,1,0,0,0,2
+386,Westfield,2,4,0,8,2,1,3,6
+387,Westwood Regional,0,3,1,4,0,3,1,4
+388,Wharton Borough,0,0,0,1,0,0,0,1
+389,Wildwood City,0,0,0,1,0,0,0,1
+390,Willingboro,0,0,0,5,0,0,0,4
+391,Winslow Township,0,0,0,6,0,0,0,6
+392,Wood-Ridge,0,0,1,2,0,1,0,2
+393,Woodbine,0,0,0,1,0,0,0,1
+394,Woodbridge Township,0,0,2,17,0,1,0,16
+395,Woodbury City,0,0,0,3,0,0,0,3
+396,Woodcliff Lake,0,1,0,1,0,1,0,1
+397,Woodland Park,0,0,0,2,0,0,0,2
+398,Woodstown-Pilesgrove Regional,0,0,0,2,0,0,0,1
+399,Wyckoff Township,0,1,2,4,0,1,3,4
